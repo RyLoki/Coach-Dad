@@ -1,0 +1,2470 @@
+[
+  {
+    "team_slug": "lugnuts-aaa",
+    "scheduled_at": "2026-04-28T18:15:00-04:00",
+    "ends_at": "2026-04-28T19:15:00-04:00",
+    "duration_min": 60,
+    "type": "standalone",
+    "title": "Standalone Practice",
+    "location": "Langley Path,Newton,MA-02459 US",
+    "field_name": "Bowen > Bowen - Far",
+    "linked_game": null,
+    "theme": "Drill focus: rotate through stations, then workshop defensive plays.",
+    "blocks": [
+      {
+        "sequence": 1,
+        "start_offset_min": 0,
+        "duration_min": 5,
+        "type": "warmup",
+        "title": "Dynamic Warmup",
+        "drill_slugs": [
+          "p90-jogging",
+          "p90-high-knees",
+          "p90-butt-kickers"
+        ],
+        "notes": "Pick 2-3; flow continuously."
+      },
+      {
+        "sequence": 2,
+        "start_offset_min": 5,
+        "duration_min": 8,
+        "type": "throwing",
+        "title": "Throwing Drills",
+        "drill_slugs": [
+          "p90-one-knee-dart-throw"
+        ],
+        "notes": "Pair off; partners 10-30ft based on drill."
+      },
+      {
+        "sequence": 3,
+        "start_offset_min": 13,
+        "duration_min": 14,
+        "type": "stations",
+        "title": "Stations 1 (3 stations \u00d7 ~4min + rotations)",
+        "stations": [
+          {
+            "label": "Hitting",
+            "drill_slug": "p90-bucket-drill"
+          },
+          {
+            "label": "Infield",
+            "drill_slug": "p90-backhand-drill"
+          },
+          {
+            "label": "Pitching",
+            "drill_slug": "p90-scarecrow-drill"
+          }
+        ],
+        "notes": "Rotation drop: outfield. 4 kids per station, coach per station."
+      },
+      {
+        "sequence": 4,
+        "start_offset_min": 27,
+        "duration_min": 14,
+        "type": "stations",
+        "title": "Stations 2 (3 stations \u00d7 ~4min + rotations)",
+        "stations": [
+          {
+            "label": "Base Running",
+            "drill_slug": "p90-rounding-1st-base-drill"
+          },
+          {
+            "label": "Catcher",
+            "drill_slug": "p90-wild-pitch-drill"
+          },
+          {
+            "label": "Hitting (2nd)",
+            "drill_slug": "p90-heavy-ball-drill"
+          }
+        ],
+        "notes": "Rotate kids through. Same coach assignments as Stations 1."
+      },
+      {
+        "sequence": 5,
+        "start_offset_min": 41,
+        "duration_min": 19,
+        "type": "situational",
+        "title": "Situational Baseball + Defensive Plays Workshop",
+        "drill_slugs": [],
+        "defensive_plays": [
+          "Cut-off and relay from the outfield (single in the gap)",
+          "Force play at 2B (runner on 1B, ground ball to SS)",
+          "Tag play at home (outfielder fielding a single with runner on 2B)"
+        ],
+        "notes": "Workshop these 2-3 plays in live situational reps. Keep moving \u2014 quality reps over volume."
+      }
+    ]
+  },
+  {
+    "team_slug": "lugnuts-aaa",
+    "scheduled_at": "2026-04-29T16:30:00-04:00",
+    "ends_at": "2026-04-29T17:30:00-04:00",
+    "duration_min": 60,
+    "type": "pregame",
+    "title": "Pre-game vs NSELL AAA Trash Pandas (away)",
+    "location": "46 Homer Street,Newton,MA-02459 US",
+    "field_name": "Jay Gordon > Jay Gordon Field",
+    "linked_game": {
+      "opponent": "NSELL AAA Trash Pandas",
+      "home_or_away": "away",
+      "game_starts_at": "2026-04-29T17:30:00-04:00"
+    },
+    "theme": "Drill focus: rotate through stations, then workshop defensive plays.",
+    "blocks": [
+      {
+        "sequence": 1,
+        "start_offset_min": 0,
+        "duration_min": 5,
+        "type": "warmup",
+        "title": "Dynamic Warmup",
+        "drill_slugs": [
+          "p90-high-knees",
+          "p90-butt-kickers",
+          "p90-side-shuffles"
+        ],
+        "notes": "Pick 2-3; flow continuously."
+      },
+      {
+        "sequence": 2,
+        "start_offset_min": 5,
+        "duration_min": 8,
+        "type": "throwing",
+        "title": "Throwing Drills",
+        "drill_slugs": [
+          "p90-one-knee-follow-through"
+        ],
+        "notes": "Pair off; partners 10-30ft based on drill."
+      },
+      {
+        "sequence": 3,
+        "start_offset_min": 13,
+        "duration_min": 14,
+        "type": "stations",
+        "title": "Stations 1 (3 stations \u00d7 ~4min + rotations)",
+        "stations": [
+          {
+            "label": "Hitting",
+            "drill_slug": "p90-heavy-ball-drill"
+          },
+          {
+            "label": "Infield",
+            "drill_slug": "p90-corners-drill"
+          },
+          {
+            "label": "Outfield",
+            "drill_slug": "p90-on-the-run-drill"
+          }
+        ],
+        "notes": "Rotation drop: pitching. 4 kids per station, coach per station."
+      },
+      {
+        "sequence": 4,
+        "start_offset_min": 27,
+        "duration_min": 14,
+        "type": "stations",
+        "title": "Stations 2 (3 stations \u00d7 ~4min + rotations)",
+        "stations": [
+          {
+            "label": "Base Running",
+            "drill_slug": "p90-sliding-drill"
+          },
+          {
+            "label": "Catcher",
+            "drill_slug": "p90-blocking-drill"
+          },
+          {
+            "label": "Hitting (2nd)",
+            "drill_slug": "p90-connection-ball-drill"
+          }
+        ],
+        "notes": "Rotate kids through. Same coach assignments as Stations 1."
+      },
+      {
+        "sequence": 5,
+        "start_offset_min": 41,
+        "duration_min": 19,
+        "type": "situational",
+        "title": "Situational Baseball + Defensive Plays Workshop",
+        "drill_slugs": [],
+        "defensive_plays": [
+          "Pop-up communication (infield + catcher calling for the ball)",
+          "Bunt coverage (charging 1B/3B, pitcher fielding, covering)",
+          "Double play turn (4-6-3 and 6-4-3)"
+        ],
+        "notes": "Workshop these 2-3 plays in live situational reps. Keep moving \u2014 quality reps over volume."
+      }
+    ]
+  },
+  {
+    "team_slug": "lugnuts-aaa",
+    "scheduled_at": "2026-05-03T16:30:00-04:00",
+    "ends_at": "2026-05-03T17:30:00-04:00",
+    "duration_min": 60,
+    "type": "pregame",
+    "title": "Pre-game vs NSELL AAA RiverDogs (home)",
+    "location": "120 Allen Avenue,Newton,MA-02468 US",
+    "field_name": "Richardson > Richardson",
+    "linked_game": {
+      "opponent": "NSELL AAA RiverDogs",
+      "home_or_away": "home",
+      "game_starts_at": "2026-05-03T17:30:00-04:00"
+    },
+    "theme": "Drill focus: rotate through stations, then workshop defensive plays.",
+    "blocks": [
+      {
+        "sequence": 1,
+        "start_offset_min": 0,
+        "duration_min": 5,
+        "type": "warmup",
+        "title": "Dynamic Warmup",
+        "drill_slugs": [
+          "p90-butt-kickers",
+          "p90-side-shuffles",
+          "p90-arm-circles"
+        ],
+        "notes": "Pick 2-3; flow continuously."
+      },
+      {
+        "sequence": 2,
+        "start_offset_min": 5,
+        "duration_min": 8,
+        "type": "throwing",
+        "title": "Throwing Drills",
+        "drill_slugs": [
+          "p90-standing-twist"
+        ],
+        "notes": "Pair off; partners 10-30ft based on drill."
+      },
+      {
+        "sequence": 3,
+        "start_offset_min": 13,
+        "duration_min": 14,
+        "type": "stations",
+        "title": "Stations 1 (3 stations \u00d7 ~4min + rotations)",
+        "stations": [
+          {
+            "label": "Hitting",
+            "drill_slug": "p90-connection-ball-drill"
+          },
+          {
+            "label": "Infield",
+            "drill_slug": "p90-footwork-drill"
+          },
+          {
+            "label": "Pitching",
+            "drill_slug": "p90-towel-drill"
+          }
+        ],
+        "notes": "Rotation drop: catcher. 4 kids per station, coach per station."
+      },
+      {
+        "sequence": 4,
+        "start_offset_min": 27,
+        "duration_min": 14,
+        "type": "stations",
+        "title": "Stations 2 (3 stations \u00d7 ~4min + rotations)",
+        "stations": [
+          {
+            "label": "Base Running",
+            "drill_slug": "p90-tag-up-drill"
+          },
+          {
+            "label": "Hitting (2nd)",
+            "drill_slug": "p90-block-drill"
+          },
+          {
+            "label": "Infield (2nd)",
+            "drill_slug": "p90-double-play-drill"
+          }
+        ],
+        "notes": "Rotate kids through. Same coach assignments as Stations 1."
+      },
+      {
+        "sequence": 5,
+        "start_offset_min": 41,
+        "duration_min": 19,
+        "type": "situational",
+        "title": "Situational Baseball + Defensive Plays Workshop",
+        "drill_slugs": [],
+        "defensive_plays": [
+          "Rundown between bases (pickle drill)",
+          "Outfielder backing up the throw to the cut-off",
+          "First-and-third defense (runner steals 2B)"
+        ],
+        "notes": "Workshop these 2-3 plays in live situational reps. Keep moving \u2014 quality reps over volume."
+      }
+    ]
+  },
+  {
+    "team_slug": "lugnuts-aaa",
+    "scheduled_at": "2026-05-06T16:30:00-04:00",
+    "ends_at": "2026-05-06T17:30:00-04:00",
+    "duration_min": 60,
+    "type": "pregame",
+    "title": "Pre-game vs NSELL AAA Drillers (home)",
+    "location": "10 Dedham Street,Newton,MA-02461 US",
+    "field_name": "Newton Highlands Playground > Newton Highlands",
+    "linked_game": {
+      "opponent": "NSELL AAA Drillers",
+      "home_or_away": "home",
+      "game_starts_at": "2026-05-06T17:30:00-04:00"
+    },
+    "theme": "Drill focus: rotate through stations, then workshop defensive plays.",
+    "blocks": [
+      {
+        "sequence": 1,
+        "start_offset_min": 0,
+        "duration_min": 5,
+        "type": "warmup",
+        "title": "Dynamic Warmup",
+        "drill_slugs": [
+          "p90-side-shuffles",
+          "p90-arm-circles",
+          "p90-walking-lunges"
+        ],
+        "notes": "Pick 2-3; flow continuously."
+      },
+      {
+        "sequence": 2,
+        "start_offset_min": 5,
+        "duration_min": 8,
+        "type": "throwing",
+        "title": "Throwing Drills",
+        "drill_slugs": [
+          "p90-standing-throw-from-stretch"
+        ],
+        "notes": "Pair off; partners 10-30ft based on drill."
+      },
+      {
+        "sequence": 3,
+        "start_offset_min": 13,
+        "duration_min": 14,
+        "type": "stations",
+        "title": "Stations 1 (3 stations \u00d7 ~4min + rotations)",
+        "stations": [
+          {
+            "label": "Hitting",
+            "drill_slug": "p90-block-drill"
+          },
+          {
+            "label": "Infield",
+            "drill_slug": "p90-double-play-drill"
+          },
+          {
+            "label": "Pitching",
+            "drill_slug": "p90-reach-back-drill"
+          }
+        ],
+        "notes": "Rotation drop: baserunning. 4 kids per station, coach per station."
+      },
+      {
+        "sequence": 4,
+        "start_offset_min": 27,
+        "duration_min": 14,
+        "type": "stations",
+        "title": "Stations 2 (3 stations \u00d7 ~4min + rotations)",
+        "stations": [
+          {
+            "label": "Catcher",
+            "drill_slug": "p90-catcher-pop-up-drill"
+          },
+          {
+            "label": "Hitting (2nd)",
+            "drill_slug": "p90-cage-work"
+          },
+          {
+            "label": "Infield (2nd)",
+            "drill_slug": "p90-relay-drill"
+          }
+        ],
+        "notes": "Rotate kids through. Same coach assignments as Stations 1."
+      },
+      {
+        "sequence": 5,
+        "start_offset_min": 41,
+        "duration_min": 19,
+        "type": "situational",
+        "title": "Situational Baseball + Defensive Plays Workshop",
+        "drill_slugs": [],
+        "defensive_plays": [
+          "Throwing to the right base on a base hit",
+          "Pickoff move and back-pick from catcher",
+          "Infield positioning by count and game situation"
+        ],
+        "notes": "Workshop these 2-3 plays in live situational reps. Keep moving \u2014 quality reps over volume."
+      }
+    ]
+  },
+  {
+    "team_slug": "lugnuts-aaa",
+    "scheduled_at": "2026-05-08T16:30:00-04:00",
+    "ends_at": "2026-05-08T17:30:00-04:00",
+    "duration_min": 60,
+    "type": "pregame",
+    "title": "Pre-game vs NSELL AAA RiverDogs (away)",
+    "location": "46 Homer Street,Newton,MA-02459 US",
+    "field_name": "Jay Gordon > Jay Gordon Field",
+    "linked_game": {
+      "opponent": "NSELL AAA RiverDogs",
+      "home_or_away": "away",
+      "game_starts_at": "2026-05-08T17:30:00-04:00"
+    },
+    "theme": "Drill focus: rotate through stations, then workshop defensive plays.",
+    "blocks": [
+      {
+        "sequence": 1,
+        "start_offset_min": 0,
+        "duration_min": 5,
+        "type": "warmup",
+        "title": "Dynamic Warmup",
+        "drill_slugs": [
+          "p90-arm-circles",
+          "p90-walking-lunges",
+          "p90-inchworms"
+        ],
+        "notes": "Pick 2-3; flow continuously."
+      },
+      {
+        "sequence": 2,
+        "start_offset_min": 5,
+        "duration_min": 8,
+        "type": "throwing",
+        "title": "Throwing Drills",
+        "drill_slugs": [
+          "p90-long-toss"
+        ],
+        "notes": "Pair off; partners 10-30ft based on drill."
+      },
+      {
+        "sequence": 3,
+        "start_offset_min": 13,
+        "duration_min": 14,
+        "type": "stations",
+        "title": "Stations 1 (3 stations \u00d7 ~4min + rotations)",
+        "stations": [
+          {
+            "label": "Hitting",
+            "drill_slug": "p90-cage-work"
+          },
+          {
+            "label": "Infield",
+            "drill_slug": "p90-relay-drill"
+          },
+          {
+            "label": "Pitching",
+            "drill_slug": "p90-knockout"
+          }
+        ],
+        "notes": "Rotation drop: outfield. 4 kids per station, coach per station."
+      },
+      {
+        "sequence": 4,
+        "start_offset_min": 27,
+        "duration_min": 14,
+        "type": "stations",
+        "title": "Stations 2 (3 stations \u00d7 ~4min + rotations)",
+        "stations": [
+          {
+            "label": "Base Running",
+            "drill_slug": "p90-base-race-drill"
+          },
+          {
+            "label": "Catcher",
+            "drill_slug": "p90-throw-down-drill"
+          },
+          {
+            "label": "Hitting (2nd)",
+            "drill_slug": "p90-bucket-drill"
+          }
+        ],
+        "notes": "Rotate kids through. Same coach assignments as Stations 1."
+      },
+      {
+        "sequence": 5,
+        "start_offset_min": 41,
+        "duration_min": 19,
+        "type": "situational",
+        "title": "Situational Baseball + Defensive Plays Workshop",
+        "drill_slugs": [],
+        "defensive_plays": [
+          "Outfield positioning by hitter / count",
+          "Cut-off and relay from the outfield (single in the gap)",
+          "Force play at 2B (runner on 1B, ground ball to SS)"
+        ],
+        "notes": "Workshop these 2-3 plays in live situational reps. Keep moving \u2014 quality reps over volume."
+      }
+    ]
+  },
+  {
+    "team_slug": "lugnuts-aaa",
+    "scheduled_at": "2026-05-10T14:00:00-04:00",
+    "ends_at": "2026-05-10T15:00:00-04:00",
+    "duration_min": 60,
+    "type": "pregame",
+    "title": "Pre-game vs NSELL AAA Drillers (away)",
+    "location": "120 Allen Avenue,Newton,MA-02468 US",
+    "field_name": "Richardson > Richardson",
+    "linked_game": {
+      "opponent": "NSELL AAA Drillers",
+      "home_or_away": "away",
+      "game_starts_at": "2026-05-10T15:00:00-04:00"
+    },
+    "theme": "Drill focus: rotate through stations, then workshop defensive plays.",
+    "blocks": [
+      {
+        "sequence": 1,
+        "start_offset_min": 0,
+        "duration_min": 5,
+        "type": "warmup",
+        "title": "Dynamic Warmup",
+        "drill_slugs": [
+          "p90-walking-lunges",
+          "p90-inchworms",
+          "p90-spiderman-stretch"
+        ],
+        "notes": "Pick 2-3; flow continuously."
+      },
+      {
+        "sequence": 2,
+        "start_offset_min": 5,
+        "duration_min": 8,
+        "type": "throwing",
+        "title": "Throwing Drills",
+        "drill_slugs": [
+          "p90-one-knee-dart-throw"
+        ],
+        "notes": "Pair off; partners 10-30ft based on drill."
+      },
+      {
+        "sequence": 3,
+        "start_offset_min": 13,
+        "duration_min": 14,
+        "type": "stations",
+        "title": "Stations 1 (3 stations \u00d7 ~4min + rotations)",
+        "stations": [
+          {
+            "label": "Hitting",
+            "drill_slug": "p90-bucket-drill"
+          },
+          {
+            "label": "Infield",
+            "drill_slug": "p90-backhand-drill"
+          },
+          {
+            "label": "Outfield",
+            "drill_slug": "p90-fly-ball-drill"
+          }
+        ],
+        "notes": "Rotation drop: pitching. 4 kids per station, coach per station."
+      },
+      {
+        "sequence": 4,
+        "start_offset_min": 27,
+        "duration_min": 14,
+        "type": "stations",
+        "title": "Stations 2 (3 stations \u00d7 ~4min + rotations)",
+        "stations": [
+          {
+            "label": "Base Running",
+            "drill_slug": "p90-rounding-1st-base-drill"
+          },
+          {
+            "label": "Catcher",
+            "drill_slug": "p90-wild-pitch-drill"
+          },
+          {
+            "label": "Hitting (2nd)",
+            "drill_slug": "p90-heavy-ball-drill"
+          }
+        ],
+        "notes": "Rotate kids through. Same coach assignments as Stations 1."
+      },
+      {
+        "sequence": 5,
+        "start_offset_min": 41,
+        "duration_min": 19,
+        "type": "situational",
+        "title": "Situational Baseball + Defensive Plays Workshop",
+        "drill_slugs": [],
+        "defensive_plays": [
+          "Tag play at home (outfielder fielding a single with runner on 2B)",
+          "Pop-up communication (infield + catcher calling for the ball)",
+          "Bunt coverage (charging 1B/3B, pitcher fielding, covering)"
+        ],
+        "notes": "Workshop these 2-3 plays in live situational reps. Keep moving \u2014 quality reps over volume."
+      }
+    ]
+  },
+  {
+    "team_slug": "lugnuts-aaa",
+    "scheduled_at": "2026-05-13T16:30:00-04:00",
+    "ends_at": "2026-05-13T17:30:00-04:00",
+    "duration_min": 60,
+    "type": "pregame",
+    "title": "Pre-game vs NSELL AAA Trash Pandas (away)",
+    "location": "46 Homer Street,Newton,MA-02459 US",
+    "field_name": "Jay Gordon > Jay Gordon Field",
+    "linked_game": {
+      "opponent": "NSELL AAA Trash Pandas",
+      "home_or_away": "away",
+      "game_starts_at": "2026-05-13T17:30:00-04:00"
+    },
+    "theme": "Drill focus: rotate through stations, then workshop defensive plays.",
+    "blocks": [
+      {
+        "sequence": 1,
+        "start_offset_min": 0,
+        "duration_min": 5,
+        "type": "warmup",
+        "title": "Dynamic Warmup",
+        "drill_slugs": [
+          "p90-inchworms",
+          "p90-spiderman-stretch",
+          "p90-leg-swings"
+        ],
+        "notes": "Pick 2-3; flow continuously."
+      },
+      {
+        "sequence": 2,
+        "start_offset_min": 5,
+        "duration_min": 8,
+        "type": "throwing",
+        "title": "Throwing Drills",
+        "drill_slugs": [
+          "p90-one-knee-follow-through"
+        ],
+        "notes": "Pair off; partners 10-30ft based on drill."
+      },
+      {
+        "sequence": 3,
+        "start_offset_min": 13,
+        "duration_min": 14,
+        "type": "stations",
+        "title": "Stations 1 (3 stations \u00d7 ~4min + rotations)",
+        "stations": [
+          {
+            "label": "Hitting",
+            "drill_slug": "p90-heavy-ball-drill"
+          },
+          {
+            "label": "Infield",
+            "drill_slug": "p90-corners-drill"
+          },
+          {
+            "label": "Pitching",
+            "drill_slug": "p90-finish-drill"
+          }
+        ],
+        "notes": "Rotation drop: catcher. 4 kids per station, coach per station."
+      },
+      {
+        "sequence": 4,
+        "start_offset_min": 27,
+        "duration_min": 14,
+        "type": "stations",
+        "title": "Stations 2 (3 stations \u00d7 ~4min + rotations)",
+        "stations": [
+          {
+            "label": "Base Running",
+            "drill_slug": "p90-sliding-drill"
+          },
+          {
+            "label": "Hitting (2nd)",
+            "drill_slug": "p90-connection-ball-drill"
+          },
+          {
+            "label": "Infield (2nd)",
+            "drill_slug": "p90-footwork-drill"
+          }
+        ],
+        "notes": "Rotate kids through. Same coach assignments as Stations 1."
+      },
+      {
+        "sequence": 5,
+        "start_offset_min": 41,
+        "duration_min": 19,
+        "type": "situational",
+        "title": "Situational Baseball + Defensive Plays Workshop",
+        "drill_slugs": [],
+        "defensive_plays": [
+          "Double play turn (4-6-3 and 6-4-3)",
+          "Rundown between bases (pickle drill)",
+          "Outfielder backing up the throw to the cut-off"
+        ],
+        "notes": "Workshop these 2-3 plays in live situational reps. Keep moving \u2014 quality reps over volume."
+      }
+    ]
+  },
+  {
+    "team_slug": "lugnuts-aaa",
+    "scheduled_at": "2026-05-15T16:30:00-04:00",
+    "ends_at": "2026-05-15T17:30:00-04:00",
+    "duration_min": 60,
+    "type": "pregame",
+    "title": "Pre-game vs NSELL AAA RiverDogs (home)",
+    "location": "120 Allen Avenue,Newton,MA-02468 US",
+    "field_name": "Richardson > Richardson",
+    "linked_game": {
+      "opponent": "NSELL AAA RiverDogs",
+      "home_or_away": "home",
+      "game_starts_at": "2026-05-15T17:30:00-04:00"
+    },
+    "theme": "Drill focus: rotate through stations, then workshop defensive plays.",
+    "blocks": [
+      {
+        "sequence": 1,
+        "start_offset_min": 0,
+        "duration_min": 5,
+        "type": "warmup",
+        "title": "Dynamic Warmup",
+        "drill_slugs": [
+          "p90-spiderman-stretch",
+          "p90-leg-swings",
+          "p90-skipping-for-height"
+        ],
+        "notes": "Pick 2-3; flow continuously."
+      },
+      {
+        "sequence": 2,
+        "start_offset_min": 5,
+        "duration_min": 8,
+        "type": "throwing",
+        "title": "Throwing Drills",
+        "drill_slugs": [
+          "p90-standing-twist"
+        ],
+        "notes": "Pair off; partners 10-30ft based on drill."
+      },
+      {
+        "sequence": 3,
+        "start_offset_min": 13,
+        "duration_min": 14,
+        "type": "stations",
+        "title": "Stations 1 (3 stations \u00d7 ~4min + rotations)",
+        "stations": [
+          {
+            "label": "Hitting",
+            "drill_slug": "p90-connection-ball-drill"
+          },
+          {
+            "label": "Infield",
+            "drill_slug": "p90-footwork-drill"
+          },
+          {
+            "label": "Pitching",
+            "drill_slug": "p90-towel-drill"
+          }
+        ],
+        "notes": "Rotation drop: baserunning. 4 kids per station, coach per station."
+      },
+      {
+        "sequence": 4,
+        "start_offset_min": 27,
+        "duration_min": 14,
+        "type": "stations",
+        "title": "Stations 2 (3 stations \u00d7 ~4min + rotations)",
+        "stations": [
+          {
+            "label": "Catcher",
+            "drill_slug": "p90-stance-drill"
+          },
+          {
+            "label": "Hitting (2nd)",
+            "drill_slug": "p90-block-drill"
+          },
+          {
+            "label": "Infield (2nd)",
+            "drill_slug": "p90-double-play-drill"
+          }
+        ],
+        "notes": "Rotate kids through. Same coach assignments as Stations 1."
+      },
+      {
+        "sequence": 5,
+        "start_offset_min": 41,
+        "duration_min": 19,
+        "type": "situational",
+        "title": "Situational Baseball + Defensive Plays Workshop",
+        "drill_slugs": [],
+        "defensive_plays": [
+          "First-and-third defense (runner steals 2B)",
+          "Throwing to the right base on a base hit",
+          "Pickoff move and back-pick from catcher"
+        ],
+        "notes": "Workshop these 2-3 plays in live situational reps. Keep moving \u2014 quality reps over volume."
+      }
+    ]
+  },
+  {
+    "team_slug": "lugnuts-aaa",
+    "scheduled_at": "2026-05-17T14:00:00-04:00",
+    "ends_at": "2026-05-17T15:00:00-04:00",
+    "duration_min": 60,
+    "type": "pregame",
+    "title": "Pre-game vs NLL AAA Reds (away)",
+    "location": "229 Cabot Street,Newton,MA-02460 US",
+    "field_name": "Cabot School > Cabot Field",
+    "linked_game": {
+      "opponent": "NLL AAA Reds",
+      "home_or_away": "away",
+      "game_starts_at": "2026-05-17T15:00:00-04:00"
+    },
+    "theme": "Drill focus: rotate through stations, then workshop defensive plays.",
+    "blocks": [
+      {
+        "sequence": 1,
+        "start_offset_min": 0,
+        "duration_min": 5,
+        "type": "warmup",
+        "title": "Dynamic Warmup",
+        "drill_slugs": [
+          "p90-leg-swings",
+          "p90-skipping-for-height",
+          "p90-frankensteins"
+        ],
+        "notes": "Pick 2-3; flow continuously."
+      },
+      {
+        "sequence": 2,
+        "start_offset_min": 5,
+        "duration_min": 8,
+        "type": "throwing",
+        "title": "Throwing Drills",
+        "drill_slugs": [
+          "p90-standing-throw-from-stretch"
+        ],
+        "notes": "Pair off; partners 10-30ft based on drill."
+      },
+      {
+        "sequence": 3,
+        "start_offset_min": 13,
+        "duration_min": 14,
+        "type": "stations",
+        "title": "Stations 1 (3 stations \u00d7 ~4min + rotations)",
+        "stations": [
+          {
+            "label": "Hitting",
+            "drill_slug": "p90-block-drill"
+          },
+          {
+            "label": "Infield",
+            "drill_slug": "p90-double-play-drill"
+          },
+          {
+            "label": "Pitching",
+            "drill_slug": "p90-reach-back-drill"
+          }
+        ],
+        "notes": "Rotation drop: outfield. 4 kids per station, coach per station."
+      },
+      {
+        "sequence": 4,
+        "start_offset_min": 27,
+        "duration_min": 14,
+        "type": "stations",
+        "title": "Stations 2 (3 stations \u00d7 ~4min + rotations)",
+        "stations": [
+          {
+            "label": "Base Running",
+            "drill_slug": "p90-reaction-drill"
+          },
+          {
+            "label": "Catcher",
+            "drill_slug": "p90-catcher-pop-up-drill"
+          },
+          {
+            "label": "Hitting (2nd)",
+            "drill_slug": "p90-cage-work"
+          }
+        ],
+        "notes": "Rotate kids through. Same coach assignments as Stations 1."
+      },
+      {
+        "sequence": 5,
+        "start_offset_min": 41,
+        "duration_min": 19,
+        "type": "situational",
+        "title": "Situational Baseball + Defensive Plays Workshop",
+        "drill_slugs": [],
+        "defensive_plays": [
+          "Infield positioning by count and game situation",
+          "Outfield positioning by hitter / count",
+          "Cut-off and relay from the outfield (single in the gap)"
+        ],
+        "notes": "Workshop these 2-3 plays in live situational reps. Keep moving \u2014 quality reps over volume."
+      }
+    ]
+  },
+  {
+    "team_slug": "lugnuts-aaa",
+    "scheduled_at": "2026-05-20T16:30:00-04:00",
+    "ends_at": "2026-05-20T17:30:00-04:00",
+    "duration_min": 60,
+    "type": "pregame",
+    "title": "Pre-game vs NLL AAA Rockies (home)",
+    "location": "120 Allen Avenue,Newton,MA-02468 US",
+    "field_name": "Richardson > Richardson",
+    "linked_game": {
+      "opponent": "NLL AAA Rockies",
+      "home_or_away": "home",
+      "game_starts_at": "2026-05-20T17:30:00-04:00"
+    },
+    "theme": "Drill focus: rotate through stations, then workshop defensive plays.",
+    "blocks": [
+      {
+        "sequence": 1,
+        "start_offset_min": 0,
+        "duration_min": 5,
+        "type": "warmup",
+        "title": "Dynamic Warmup",
+        "drill_slugs": [
+          "p90-skipping-for-height",
+          "p90-frankensteins",
+          "p90-carioca"
+        ],
+        "notes": "Pick 2-3; flow continuously."
+      },
+      {
+        "sequence": 2,
+        "start_offset_min": 5,
+        "duration_min": 8,
+        "type": "throwing",
+        "title": "Throwing Drills",
+        "drill_slugs": [
+          "p90-long-toss"
+        ],
+        "notes": "Pair off; partners 10-30ft based on drill."
+      },
+      {
+        "sequence": 3,
+        "start_offset_min": 13,
+        "duration_min": 14,
+        "type": "stations",
+        "title": "Stations 1 (3 stations \u00d7 ~4min + rotations)",
+        "stations": [
+          {
+            "label": "Hitting",
+            "drill_slug": "p90-cage-work"
+          },
+          {
+            "label": "Infield",
+            "drill_slug": "p90-relay-drill"
+          },
+          {
+            "label": "Outfield",
+            "drill_slug": "p90-target-drill"
+          }
+        ],
+        "notes": "Rotation drop: pitching. 4 kids per station, coach per station."
+      },
+      {
+        "sequence": 4,
+        "start_offset_min": 27,
+        "duration_min": 14,
+        "type": "stations",
+        "title": "Stations 2 (3 stations \u00d7 ~4min + rotations)",
+        "stations": [
+          {
+            "label": "Base Running",
+            "drill_slug": "p90-base-race-drill"
+          },
+          {
+            "label": "Catcher",
+            "drill_slug": "p90-throw-down-drill"
+          },
+          {
+            "label": "Hitting (2nd)",
+            "drill_slug": "p90-bucket-drill"
+          }
+        ],
+        "notes": "Rotate kids through. Same coach assignments as Stations 1."
+      },
+      {
+        "sequence": 5,
+        "start_offset_min": 41,
+        "duration_min": 19,
+        "type": "situational",
+        "title": "Situational Baseball + Defensive Plays Workshop",
+        "drill_slugs": [],
+        "defensive_plays": [
+          "Force play at 2B (runner on 1B, ground ball to SS)",
+          "Tag play at home (outfielder fielding a single with runner on 2B)",
+          "Pop-up communication (infield + catcher calling for the ball)"
+        ],
+        "notes": "Workshop these 2-3 plays in live situational reps. Keep moving \u2014 quality reps over volume."
+      }
+    ]
+  },
+  {
+    "team_slug": "lugnuts-aaa",
+    "scheduled_at": "2026-05-27T16:30:00-04:00",
+    "ends_at": "2026-05-27T17:30:00-04:00",
+    "duration_min": 60,
+    "type": "pregame",
+    "title": "Pre-game vs NSELL AAA RockHounds (home)",
+    "location": "46 Homer Street,Newton,MA-02459 US",
+    "field_name": "Jay Gordon > Jay Gordon Field",
+    "linked_game": {
+      "opponent": "NSELL AAA RockHounds",
+      "home_or_away": "home",
+      "game_starts_at": "2026-05-27T17:30:00-04:00"
+    },
+    "theme": "Drill focus: rotate through stations, then workshop defensive plays.",
+    "blocks": [
+      {
+        "sequence": 1,
+        "start_offset_min": 0,
+        "duration_min": 5,
+        "type": "warmup",
+        "title": "Dynamic Warmup",
+        "drill_slugs": [
+          "p90-frankensteins",
+          "p90-carioca",
+          "p90-jogging"
+        ],
+        "notes": "Pick 2-3; flow continuously."
+      },
+      {
+        "sequence": 2,
+        "start_offset_min": 5,
+        "duration_min": 8,
+        "type": "throwing",
+        "title": "Throwing Drills",
+        "drill_slugs": [
+          "p90-one-knee-dart-throw"
+        ],
+        "notes": "Pair off; partners 10-30ft based on drill."
+      },
+      {
+        "sequence": 3,
+        "start_offset_min": 13,
+        "duration_min": 14,
+        "type": "stations",
+        "title": "Stations 1 (3 stations \u00d7 ~4min + rotations)",
+        "stations": [
+          {
+            "label": "Hitting",
+            "drill_slug": "p90-bucket-drill"
+          },
+          {
+            "label": "Infield",
+            "drill_slug": "p90-backhand-drill"
+          },
+          {
+            "label": "Pitching",
+            "drill_slug": "p90-scarecrow-drill"
+          }
+        ],
+        "notes": "Rotation drop: catcher. 4 kids per station, coach per station."
+      },
+      {
+        "sequence": 4,
+        "start_offset_min": 27,
+        "duration_min": 14,
+        "type": "stations",
+        "title": "Stations 2 (3 stations \u00d7 ~4min + rotations)",
+        "stations": [
+          {
+            "label": "Base Running",
+            "drill_slug": "p90-rounding-1st-base-drill"
+          },
+          {
+            "label": "Hitting (2nd)",
+            "drill_slug": "p90-heavy-ball-drill"
+          },
+          {
+            "label": "Infield (2nd)",
+            "drill_slug": "p90-corners-drill"
+          }
+        ],
+        "notes": "Rotate kids through. Same coach assignments as Stations 1."
+      },
+      {
+        "sequence": 5,
+        "start_offset_min": 41,
+        "duration_min": 19,
+        "type": "situational",
+        "title": "Situational Baseball + Defensive Plays Workshop",
+        "drill_slugs": [],
+        "defensive_plays": [
+          "Bunt coverage (charging 1B/3B, pitcher fielding, covering)",
+          "Double play turn (4-6-3 and 6-4-3)",
+          "Rundown between bases (pickle drill)"
+        ],
+        "notes": "Workshop these 2-3 plays in live situational reps. Keep moving \u2014 quality reps over volume."
+      }
+    ]
+  },
+  {
+    "team_slug": "lugnuts-aaa",
+    "scheduled_at": "2026-05-31T14:00:00-04:00",
+    "ends_at": "2026-05-31T15:00:00-04:00",
+    "duration_min": 60,
+    "type": "pregame",
+    "title": "Pre-game vs NSELL AAA RockHounds (away)",
+    "location": "46 Homer Street,Newton,MA-02459 US",
+    "field_name": "Jay Gordon > Jay Gordon Field",
+    "linked_game": {
+      "opponent": "NSELL AAA RockHounds",
+      "home_or_away": "away",
+      "game_starts_at": "2026-05-31T15:00:00-04:00"
+    },
+    "theme": "Drill focus: rotate through stations, then workshop defensive plays.",
+    "blocks": [
+      {
+        "sequence": 1,
+        "start_offset_min": 0,
+        "duration_min": 5,
+        "type": "warmup",
+        "title": "Dynamic Warmup",
+        "drill_slugs": [
+          "p90-carioca",
+          "p90-jogging",
+          "p90-high-knees"
+        ],
+        "notes": "Pick 2-3; flow continuously."
+      },
+      {
+        "sequence": 2,
+        "start_offset_min": 5,
+        "duration_min": 8,
+        "type": "throwing",
+        "title": "Throwing Drills",
+        "drill_slugs": [
+          "p90-one-knee-follow-through"
+        ],
+        "notes": "Pair off; partners 10-30ft based on drill."
+      },
+      {
+        "sequence": 3,
+        "start_offset_min": 13,
+        "duration_min": 14,
+        "type": "stations",
+        "title": "Stations 1 (3 stations \u00d7 ~4min + rotations)",
+        "stations": [
+          {
+            "label": "Hitting",
+            "drill_slug": "p90-heavy-ball-drill"
+          },
+          {
+            "label": "Infield",
+            "drill_slug": "p90-corners-drill"
+          },
+          {
+            "label": "Pitching",
+            "drill_slug": "p90-finish-drill"
+          }
+        ],
+        "notes": "Rotation drop: baserunning. 4 kids per station, coach per station."
+      },
+      {
+        "sequence": 4,
+        "start_offset_min": 27,
+        "duration_min": 14,
+        "type": "stations",
+        "title": "Stations 2 (3 stations \u00d7 ~4min + rotations)",
+        "stations": [
+          {
+            "label": "Catcher",
+            "drill_slug": "p90-blocking-drill"
+          },
+          {
+            "label": "Hitting (2nd)",
+            "drill_slug": "p90-connection-ball-drill"
+          },
+          {
+            "label": "Infield (2nd)",
+            "drill_slug": "p90-footwork-drill"
+          }
+        ],
+        "notes": "Rotate kids through. Same coach assignments as Stations 1."
+      },
+      {
+        "sequence": 5,
+        "start_offset_min": 41,
+        "duration_min": 19,
+        "type": "situational",
+        "title": "Situational Baseball + Defensive Plays Workshop",
+        "drill_slugs": [],
+        "defensive_plays": [
+          "Outfielder backing up the throw to the cut-off",
+          "First-and-third defense (runner steals 2B)",
+          "Throwing to the right base on a base hit"
+        ],
+        "notes": "Workshop these 2-3 plays in live situational reps. Keep moving \u2014 quality reps over volume."
+      }
+    ]
+  },
+  {
+    "team_slug": "lugnuts-aaa",
+    "scheduled_at": "2026-06-03T16:30:00-04:00",
+    "ends_at": "2026-06-03T17:30:00-04:00",
+    "duration_min": 60,
+    "type": "pregame",
+    "title": "Pre-game vs NSELL AAA RockHounds (home)",
+    "location": "10 Dedham Street,Newton,MA-02461 US",
+    "field_name": "Newton Highlands Playground > Newton Highlands",
+    "linked_game": {
+      "opponent": "NSELL AAA RockHounds",
+      "home_or_away": "home",
+      "game_starts_at": "2026-06-03T17:30:00-04:00"
+    },
+    "theme": "Drill focus: rotate through stations, then workshop defensive plays.",
+    "blocks": [
+      {
+        "sequence": 1,
+        "start_offset_min": 0,
+        "duration_min": 5,
+        "type": "warmup",
+        "title": "Dynamic Warmup",
+        "drill_slugs": [
+          "p90-jogging",
+          "p90-high-knees",
+          "p90-butt-kickers"
+        ],
+        "notes": "Pick 2-3; flow continuously."
+      },
+      {
+        "sequence": 2,
+        "start_offset_min": 5,
+        "duration_min": 8,
+        "type": "throwing",
+        "title": "Throwing Drills",
+        "drill_slugs": [
+          "p90-standing-twist"
+        ],
+        "notes": "Pair off; partners 10-30ft based on drill."
+      },
+      {
+        "sequence": 3,
+        "start_offset_min": 13,
+        "duration_min": 14,
+        "type": "stations",
+        "title": "Stations 1 (3 stations \u00d7 ~4min + rotations)",
+        "stations": [
+          {
+            "label": "Hitting",
+            "drill_slug": "p90-connection-ball-drill"
+          },
+          {
+            "label": "Infield",
+            "drill_slug": "p90-footwork-drill"
+          },
+          {
+            "label": "Pitching",
+            "drill_slug": "p90-towel-drill"
+          }
+        ],
+        "notes": "Rotation drop: outfield. 4 kids per station, coach per station."
+      },
+      {
+        "sequence": 4,
+        "start_offset_min": 27,
+        "duration_min": 14,
+        "type": "stations",
+        "title": "Stations 2 (3 stations \u00d7 ~4min + rotations)",
+        "stations": [
+          {
+            "label": "Base Running",
+            "drill_slug": "p90-tag-up-drill"
+          },
+          {
+            "label": "Catcher",
+            "drill_slug": "p90-stance-drill"
+          },
+          {
+            "label": "Hitting (2nd)",
+            "drill_slug": "p90-block-drill"
+          }
+        ],
+        "notes": "Rotate kids through. Same coach assignments as Stations 1."
+      },
+      {
+        "sequence": 5,
+        "start_offset_min": 41,
+        "duration_min": 19,
+        "type": "situational",
+        "title": "Situational Baseball + Defensive Plays Workshop",
+        "drill_slugs": [],
+        "defensive_plays": [
+          "Pickoff move and back-pick from catcher",
+          "Infield positioning by count and game situation",
+          "Outfield positioning by hitter / count"
+        ],
+        "notes": "Workshop these 2-3 plays in live situational reps. Keep moving \u2014 quality reps over volume."
+      }
+    ]
+  },
+  {
+    "team_slug": "white-sox-farm2",
+    "scheduled_at": "2026-04-30T17:30:00-04:00",
+    "ends_at": "2026-04-30T18:30:00-04:00",
+    "duration_min": 60,
+    "type": "standalone",
+    "title": "Standalone Practice",
+    "location": "Langley Path,Newton,MA-02459 US",
+    "field_name": "Bowen > Bowen - Far",
+    "linked_game": null,
+    "theme": "Big Three (Have Fun, Work Hard, Be a Good Sport)",
+    "blocks": [
+      {
+        "sequence": 1,
+        "start_offset_min": 0,
+        "duration_min": 3,
+        "type": "intro",
+        "title": "Welcome + PCA Tip of the Week",
+        "drill_slugs": [],
+        "notes": "PCA Theme: Big Three (Have Fun, Work Hard, Be a Good Sport)"
+      },
+      {
+        "sequence": 2,
+        "start_offset_min": 3,
+        "duration_min": 7,
+        "type": "warmup",
+        "title": "Stretch + Warm Up",
+        "drill_slugs": [],
+        "notes": "Run along the fence, then leg/arm stretches, finish with 20 jumping jacks."
+      },
+      {
+        "sequence": 3,
+        "start_offset_min": 10,
+        "duration_min": 35,
+        "type": "drill_block",
+        "title": "CP Week 1: Drill Sequence",
+        "drill_slugs": [
+          "cp-five-steps-of-throwing",
+          "cp-grip-stance-coverage",
+          "cp-dry-swings",
+          "cp-run-through-first",
+          "cp-two-hand-target",
+          "cp-thumb-to-thumb"
+        ],
+        "notes": "Cycle through drills as time permits. See per-drill cards for full description."
+      },
+      {
+        "sequence": 4,
+        "start_offset_min": 45,
+        "duration_min": 13,
+        "type": "situational",
+        "title": "Defensive Plays Workshop (2-3 plays)",
+        "drill_slugs": [],
+        "defensive_plays": [
+          "Field a ground ball, throw to 1B for the out (every infield position)",
+          "Outfielder fielding a base hit and throwing to the cut-off (SS or 2B)"
+        ],
+        "notes": "Walk through each play once, then live reps. OK to repeat plays week to week."
+      },
+      {
+        "sequence": 5,
+        "start_offset_min": 58,
+        "duration_min": 2,
+        "type": "conclusion",
+        "title": "Conclusion + High Fives",
+        "drill_slugs": [],
+        "notes": "Review what they learned, remind of next event."
+      }
+    ]
+  },
+  {
+    "team_slug": "white-sox-farm2",
+    "scheduled_at": "2026-05-03T12:00:00-04:00",
+    "ends_at": "2026-05-03T13:00:00-04:00",
+    "duration_min": 60,
+    "type": "pregame",
+    "title": "Pre-game vs NSELL Farm 2 Tigers (away)",
+    "location": "10 Dedham Street,Newton,MA-02461 US",
+    "field_name": "Newton Highlands Playground > Newton Highlands",
+    "linked_game": {
+      "opponent": "NSELL Farm 2 Tigers",
+      "home_or_away": "away",
+      "game_starts_at": "2026-05-03T13:00:00-04:00"
+    },
+    "theme": "Rebounding from Mistakes (Mistake Ritual)",
+    "blocks": [
+      {
+        "sequence": 1,
+        "start_offset_min": 0,
+        "duration_min": 3,
+        "type": "intro",
+        "title": "Welcome + PCA Tip of the Week",
+        "drill_slugs": [],
+        "notes": "PCA Theme: Rebounding from Mistakes (Mistake Ritual)"
+      },
+      {
+        "sequence": 2,
+        "start_offset_min": 3,
+        "duration_min": 7,
+        "type": "warmup",
+        "title": "Stretch + Warm Up",
+        "drill_slugs": [],
+        "notes": "Run along the fence, then leg/arm stretches, finish with 20 jumping jacks."
+      },
+      {
+        "sequence": 3,
+        "start_offset_min": 10,
+        "duration_min": 35,
+        "type": "drill_block",
+        "title": "CP Week 2: Drill Sequence",
+        "drill_slugs": [
+          "cp-toss-catch-four-seam-grip",
+          "cp-five-steps-of-fielding",
+          "cp-below-waist-catching",
+          "cp-merry-go-round",
+          "cp-hula-hoop-game"
+        ],
+        "notes": "Cycle through drills as time permits. See per-drill cards for full description."
+      },
+      {
+        "sequence": 4,
+        "start_offset_min": 45,
+        "duration_min": 13,
+        "type": "situational",
+        "title": "Defensive Plays Workshop (2-3 plays)",
+        "drill_slugs": [],
+        "defensive_plays": [
+          "Force play at 2B with runners on 1B",
+          "Tagging out a runner at home from the outfield"
+        ],
+        "notes": "Walk through each play once, then live reps. OK to repeat plays week to week."
+      },
+      {
+        "sequence": 5,
+        "start_offset_min": 58,
+        "duration_min": 2,
+        "type": "conclusion",
+        "title": "Conclusion + High Fives",
+        "drill_slugs": [],
+        "notes": "Review what they learned, remind of next event."
+      }
+    ]
+  },
+  {
+    "team_slug": "white-sox-farm2",
+    "scheduled_at": "2026-05-06T16:30:00-04:00",
+    "ends_at": "2026-05-06T17:30:00-04:00",
+    "duration_min": 60,
+    "type": "pregame",
+    "title": "Pre-game vs NSELL Farm 2 Athletics (home)",
+    "location": "Langley Path,Newton,MA-02459 US",
+    "field_name": "Bowen > Bowen - Near",
+    "linked_game": {
+      "opponent": "NSELL Farm 2 Athletics",
+      "home_or_away": "home",
+      "game_starts_at": "2026-05-06T17:30:00-04:00"
+    },
+    "theme": "Everyone Belongs Here (Emotional Tank)",
+    "blocks": [
+      {
+        "sequence": 1,
+        "start_offset_min": 0,
+        "duration_min": 3,
+        "type": "intro",
+        "title": "Welcome + PCA Tip of the Week",
+        "drill_slugs": [],
+        "notes": "PCA Theme: Everyone Belongs Here (Emotional Tank)"
+      },
+      {
+        "sequence": 2,
+        "start_offset_min": 3,
+        "duration_min": 7,
+        "type": "warmup",
+        "title": "Stretch + Warm Up",
+        "drill_slugs": [],
+        "notes": "Run along the fence, then leg/arm stretches, finish with 20 jumping jacks."
+      },
+      {
+        "sequence": 3,
+        "start_offset_min": 10,
+        "duration_min": 35,
+        "type": "drill_block",
+        "title": "CP Week 3: Drill Sequence",
+        "drill_slugs": [
+          "cp-five-steps-of-fielding",
+          "cp-alligator-hands",
+          "cp-coach-pitching-from-knee",
+          "cp-hitting-from-a-tee",
+          "cp-pitch-recognition",
+          "cp-rounding-first-base",
+          "cp-throwing-from-knee-to-partner"
+        ],
+        "notes": "Cycle through drills as time permits. See per-drill cards for full description."
+      },
+      {
+        "sequence": 4,
+        "start_offset_min": 45,
+        "duration_min": 13,
+        "type": "situational",
+        "title": "Defensive Plays Workshop (2-3 plays)",
+        "drill_slugs": [],
+        "defensive_plays": [
+          "Pop-up: infielder calling 'I got it!' and others backing off",
+          "Pitcher covering 1B on a ball hit to the right side"
+        ],
+        "notes": "Walk through each play once, then live reps. OK to repeat plays week to week."
+      },
+      {
+        "sequence": 5,
+        "start_offset_min": 58,
+        "duration_min": 2,
+        "type": "conclusion",
+        "title": "Conclusion + High Fives",
+        "drill_slugs": [],
+        "notes": "Review what they learned, remind of next event."
+      }
+    ]
+  },
+  {
+    "team_slug": "white-sox-farm2",
+    "scheduled_at": "2026-05-10T16:00:00-04:00",
+    "ends_at": "2026-05-10T17:00:00-04:00",
+    "duration_min": 60,
+    "type": "pregame",
+    "title": "Pre-game vs NSELL Farm 2 Royals (home)",
+    "location": "250 Brookline Street,Newton,MA-02459 US",
+    "field_name": "Memorial-Spaulding > Memorial-Spaulding - Lower",
+    "linked_game": {
+      "opponent": "NSELL Farm 2 Royals",
+      "home_or_away": "home",
+      "game_starts_at": "2026-05-10T17:00:00-04:00"
+    },
+    "theme": "Honoring the Game (ROOTS)",
+    "blocks": [
+      {
+        "sequence": 1,
+        "start_offset_min": 0,
+        "duration_min": 3,
+        "type": "intro",
+        "title": "Welcome + PCA Tip of the Week",
+        "drill_slugs": [],
+        "notes": "PCA Theme: Honoring the Game (ROOTS)"
+      },
+      {
+        "sequence": 2,
+        "start_offset_min": 3,
+        "duration_min": 7,
+        "type": "warmup",
+        "title": "Stretch + Warm Up",
+        "drill_slugs": [],
+        "notes": "Run along the fence, then leg/arm stretches, finish with 20 jumping jacks."
+      },
+      {
+        "sequence": 3,
+        "start_offset_min": 10,
+        "duration_min": 35,
+        "type": "drill_block",
+        "title": "CP Week 4: Drill Sequence",
+        "drill_slugs": [
+          "cp-toss-catch-four-seam-relay",
+          "cp-above-waist-catching",
+          "cp-hat-in-mouth-drill",
+          "cp-dry-ground-ball-drill",
+          "cp-home-plate-relay-race",
+          "cp-conditioning-game"
+        ],
+        "notes": "Cycle through drills as time permits. See per-drill cards for full description."
+      },
+      {
+        "sequence": 4,
+        "start_offset_min": 45,
+        "duration_min": 13,
+        "type": "situational",
+        "title": "Defensive Plays Workshop (2-3 plays)",
+        "drill_slugs": [],
+        "defensive_plays": [
+          "First baseman fielding a ground ball, tagging the bag",
+          "Third baseman fielding a slow roller, throwing to 1B"
+        ],
+        "notes": "Walk through each play once, then live reps. OK to repeat plays week to week."
+      },
+      {
+        "sequence": 5,
+        "start_offset_min": 58,
+        "duration_min": 2,
+        "type": "conclusion",
+        "title": "Conclusion + High Fives",
+        "drill_slugs": [],
+        "notes": "Review what they learned, remind of next event."
+      }
+    ]
+  },
+  {
+    "team_slug": "white-sox-farm2",
+    "scheduled_at": "2026-05-17T16:00:00-04:00",
+    "ends_at": "2026-05-17T17:00:00-04:00",
+    "duration_min": 60,
+    "type": "pregame",
+    "title": "Pre-game vs NSELL Farm 2 Angels (away)",
+    "location": "250 Brookline Street,Newton,MA-02459 US",
+    "field_name": "Memorial-Spaulding > Memorial-Spaulding - Lower",
+    "linked_game": {
+      "opponent": "NSELL Farm 2 Angels",
+      "home_or_away": "away",
+      "game_starts_at": "2026-05-17T17:00:00-04:00"
+    },
+    "theme": "Winners' Self-Talk",
+    "blocks": [
+      {
+        "sequence": 1,
+        "start_offset_min": 0,
+        "duration_min": 3,
+        "type": "intro",
+        "title": "Welcome + PCA Tip of the Week",
+        "drill_slugs": [],
+        "notes": "PCA Theme: Winners' Self-Talk"
+      },
+      {
+        "sequence": 2,
+        "start_offset_min": 3,
+        "duration_min": 7,
+        "type": "warmup",
+        "title": "Stretch + Warm Up",
+        "drill_slugs": [],
+        "notes": "Run along the fence, then leg/arm stretches, finish with 20 jumping jacks."
+      },
+      {
+        "sequence": 3,
+        "start_offset_min": 10,
+        "duration_min": 35,
+        "type": "drill_block",
+        "title": "CP Week 5: Drill Sequence",
+        "drill_slugs": [
+          "cp-hand-separation",
+          "cp-player-toss",
+          "cp-plastic-ball-pop-ups",
+          "cp-soft-toss"
+        ],
+        "notes": "Cycle through drills as time permits. See per-drill cards for full description."
+      },
+      {
+        "sequence": 4,
+        "start_offset_min": 45,
+        "duration_min": 13,
+        "type": "situational",
+        "title": "Defensive Plays Workshop (2-3 plays)",
+        "drill_slugs": [],
+        "defensive_plays": [
+          "Catcher fielding a bunt and throwing to 1B",
+          "Backing up the throw \u2014 outfielder behind 2B"
+        ],
+        "notes": "Walk through each play once, then live reps. OK to repeat plays week to week."
+      },
+      {
+        "sequence": 5,
+        "start_offset_min": 58,
+        "duration_min": 2,
+        "type": "conclusion",
+        "title": "Conclusion + High Fives",
+        "drill_slugs": [],
+        "notes": "Review what they learned, remind of next event."
+      }
+    ]
+  },
+  {
+    "team_slug": "white-sox-farm2",
+    "scheduled_at": "2026-05-20T16:30:00-04:00",
+    "ends_at": "2026-05-20T17:30:00-04:00",
+    "duration_min": 60,
+    "type": "pregame",
+    "title": "Pre-game vs NSELL Farm 2 Tigers (away)",
+    "location": "Langley Path,Newton,MA-02459 US",
+    "field_name": "Bowen > Bowen - Near",
+    "linked_game": {
+      "opponent": "NSELL Farm 2 Tigers",
+      "home_or_away": "away",
+      "game_starts_at": "2026-05-20T17:30:00-04:00"
+    },
+    "theme": "Mistake Ritual + Building Confidence",
+    "blocks": [
+      {
+        "sequence": 1,
+        "start_offset_min": 0,
+        "duration_min": 3,
+        "type": "intro",
+        "title": "Welcome + PCA Tip of the Week",
+        "drill_slugs": [],
+        "notes": "PCA Theme: Mistake Ritual + Building Confidence"
+      },
+      {
+        "sequence": 2,
+        "start_offset_min": 3,
+        "duration_min": 7,
+        "type": "warmup",
+        "title": "Stretch + Warm Up",
+        "drill_slugs": [],
+        "notes": "Run along the fence, then leg/arm stretches, finish with 20 jumping jacks."
+      },
+      {
+        "sequence": 3,
+        "start_offset_min": 10,
+        "duration_min": 35,
+        "type": "drill_block",
+        "title": "CP Week 6: Drill Sequence",
+        "drill_slugs": [
+          "cp-knock-out-game",
+          "cp-game-of-21",
+          "cp-base-running-cues"
+        ],
+        "notes": "Cycle through drills as time permits. See per-drill cards for full description."
+      },
+      {
+        "sequence": 4,
+        "start_offset_min": 45,
+        "duration_min": 13,
+        "type": "situational",
+        "title": "Defensive Plays Workshop (2-3 plays)",
+        "drill_slugs": [],
+        "defensive_plays": [
+          "Infielder positioning by hitter (left vs right)",
+          "Outfielder hit-the-cutoff vs throw-it-home decision"
+        ],
+        "notes": "Walk through each play once, then live reps. OK to repeat plays week to week."
+      },
+      {
+        "sequence": 5,
+        "start_offset_min": 58,
+        "duration_min": 2,
+        "type": "conclusion",
+        "title": "Conclusion + High Fives",
+        "drill_slugs": [],
+        "notes": "Review what they learned, remind of next event."
+      }
+    ]
+  },
+  {
+    "team_slug": "white-sox-farm2",
+    "scheduled_at": "2026-05-27T16:30:00-04:00",
+    "ends_at": "2026-05-27T17:30:00-04:00",
+    "duration_min": 60,
+    "type": "pregame",
+    "title": "Pre-game vs NSELL Farm 2 Athletics (home)",
+    "location": "Langley Path,Newton,MA-02459 US",
+    "field_name": "Bowen > Bowen - Near",
+    "linked_game": {
+      "opponent": "NSELL Farm 2 Athletics",
+      "home_or_away": "home",
+      "game_starts_at": "2026-05-27T17:30:00-04:00"
+    },
+    "theme": "Targets and Effort",
+    "blocks": [
+      {
+        "sequence": 1,
+        "start_offset_min": 0,
+        "duration_min": 3,
+        "type": "intro",
+        "title": "Welcome + PCA Tip of the Week",
+        "drill_slugs": [],
+        "notes": "PCA Theme: Targets and Effort"
+      },
+      {
+        "sequence": 2,
+        "start_offset_min": 3,
+        "duration_min": 7,
+        "type": "warmup",
+        "title": "Stretch + Warm Up",
+        "drill_slugs": [],
+        "notes": "Run along the fence, then leg/arm stretches, finish with 20 jumping jacks."
+      },
+      {
+        "sequence": 3,
+        "start_offset_min": 10,
+        "duration_min": 35,
+        "type": "drill_block",
+        "title": "CP Week 7: Drill Sequence",
+        "drill_slugs": [
+          "cp-pick-up-drill",
+          "cp-first-to-third",
+          "cp-second-to-home"
+        ],
+        "notes": "Cycle through drills as time permits. See per-drill cards for full description."
+      },
+      {
+        "sequence": 4,
+        "start_offset_min": 45,
+        "duration_min": 13,
+        "type": "situational",
+        "title": "Defensive Plays Workshop (2-3 plays)",
+        "drill_slugs": [],
+        "defensive_plays": [
+          "Field a ground ball, throw to 1B for the out (every infield position)",
+          "Outfielder fielding a base hit and throwing to the cut-off (SS or 2B)"
+        ],
+        "notes": "Walk through each play once, then live reps. OK to repeat plays week to week."
+      },
+      {
+        "sequence": 5,
+        "start_offset_min": 58,
+        "duration_min": 2,
+        "type": "conclusion",
+        "title": "Conclusion + High Fives",
+        "drill_slugs": [],
+        "notes": "Review what they learned, remind of next event."
+      }
+    ]
+  },
+  {
+    "team_slug": "white-sox-farm2",
+    "scheduled_at": "2026-05-31T16:00:00-04:00",
+    "ends_at": "2026-05-31T17:00:00-04:00",
+    "duration_min": 60,
+    "type": "pregame",
+    "title": "Pre-game vs NSELL Farm 2 Royals (home)",
+    "location": "250 Brookline Street,Newton,MA-02459 US",
+    "field_name": "Memorial-Spaulding > Memorial-Spaulding - Lower",
+    "linked_game": {
+      "opponent": "NSELL Farm 2 Royals",
+      "home_or_away": "home",
+      "game_starts_at": "2026-05-31T17:00:00-04:00"
+    },
+    "theme": "ELM Tree (Effort, Learning, Mistakes)",
+    "blocks": [
+      {
+        "sequence": 1,
+        "start_offset_min": 0,
+        "duration_min": 3,
+        "type": "intro",
+        "title": "Welcome + PCA Tip of the Week",
+        "drill_slugs": [],
+        "notes": "PCA Theme: ELM Tree (Effort, Learning, Mistakes)"
+      },
+      {
+        "sequence": 2,
+        "start_offset_min": 3,
+        "duration_min": 7,
+        "type": "warmup",
+        "title": "Stretch + Warm Up",
+        "drill_slugs": [],
+        "notes": "Run along the fence, then leg/arm stretches, finish with 20 jumping jacks."
+      },
+      {
+        "sequence": 3,
+        "start_offset_min": 10,
+        "duration_min": 35,
+        "type": "drill_block",
+        "title": "CP Week 8: Drill Sequence",
+        "drill_slugs": [
+          "cp-tennis-ball-pop-ups",
+          "cp-three-man-relay",
+          "cp-bare-hands-game",
+          "cp-coach-pitch-4x4x4",
+          "cp-home-first-third-second-home"
+        ],
+        "notes": "Cycle through drills as time permits. See per-drill cards for full description."
+      },
+      {
+        "sequence": 4,
+        "start_offset_min": 45,
+        "duration_min": 13,
+        "type": "situational",
+        "title": "Defensive Plays Workshop (2-3 plays)",
+        "drill_slugs": [],
+        "defensive_plays": [
+          "Force play at 2B with runners on 1B",
+          "Tagging out a runner at home from the outfield"
+        ],
+        "notes": "Walk through each play once, then live reps. OK to repeat plays week to week."
+      },
+      {
+        "sequence": 5,
+        "start_offset_min": 58,
+        "duration_min": 2,
+        "type": "conclusion",
+        "title": "Conclusion + High Fives",
+        "drill_slugs": [],
+        "notes": "Review what they learned, remind of next event."
+      }
+    ]
+  },
+  {
+    "team_slug": "white-sox-farm2",
+    "scheduled_at": "2026-06-07T16:00:00-04:00",
+    "ends_at": "2026-06-07T17:00:00-04:00",
+    "duration_min": 60,
+    "type": "pregame",
+    "title": "Pre-game vs NSELL Farm 2 Angels (away)",
+    "location": "250 Brookline Street,Newton,MA-02459 US",
+    "field_name": "Memorial-Spaulding > Memorial-Spaulding - Lower",
+    "linked_game": {
+      "opponent": "NSELL Farm 2 Angels",
+      "home_or_away": "away",
+      "game_starts_at": "2026-06-07T17:00:00-04:00"
+    },
+    "theme": "Self-Talk + Encouragement",
+    "blocks": [
+      {
+        "sequence": 1,
+        "start_offset_min": 0,
+        "duration_min": 3,
+        "type": "intro",
+        "title": "Welcome + PCA Tip of the Week",
+        "drill_slugs": [],
+        "notes": "PCA Theme: Self-Talk + Encouragement"
+      },
+      {
+        "sequence": 2,
+        "start_offset_min": 3,
+        "duration_min": 7,
+        "type": "warmup",
+        "title": "Stretch + Warm Up",
+        "drill_slugs": [],
+        "notes": "Run along the fence, then leg/arm stretches, finish with 20 jumping jacks."
+      },
+      {
+        "sequence": 3,
+        "start_offset_min": 10,
+        "duration_min": 35,
+        "type": "drill_block",
+        "title": "CP Week 9: Drill Sequence",
+        "drill_slugs": [
+          "cp-same-side-toss",
+          "cp-knee-ground-ball"
+        ],
+        "notes": "Cycle through drills as time permits. See per-drill cards for full description."
+      },
+      {
+        "sequence": 4,
+        "start_offset_min": 45,
+        "duration_min": 13,
+        "type": "situational",
+        "title": "Defensive Plays Workshop (2-3 plays)",
+        "drill_slugs": [],
+        "defensive_plays": [
+          "Pop-up: infielder calling 'I got it!' and others backing off",
+          "Pitcher covering 1B on a ball hit to the right side"
+        ],
+        "notes": "Walk through each play once, then live reps. OK to repeat plays week to week."
+      },
+      {
+        "sequence": 5,
+        "start_offset_min": 58,
+        "duration_min": 2,
+        "type": "conclusion",
+        "title": "Conclusion + High Fives",
+        "drill_slugs": [],
+        "notes": "Review what they learned, remind of next event."
+      }
+    ]
+  },
+  {
+    "team_slug": "white-sox-farm2",
+    "scheduled_at": "2026-06-10T16:30:00-04:00",
+    "ends_at": "2026-06-10T17:30:00-04:00",
+    "duration_min": 60,
+    "type": "pregame",
+    "title": "Pre-game vs NSELL Farm 2 Tigers (away)",
+    "location": "Langley Path,Newton,MA-02459 US",
+    "field_name": "Bowen > Bowen - Near",
+    "linked_game": {
+      "opponent": "NSELL Farm 2 Tigers",
+      "home_or_away": "away",
+      "game_starts_at": "2026-06-10T17:30:00-04:00"
+    },
+    "theme": "Filling Tanks",
+    "blocks": [
+      {
+        "sequence": 1,
+        "start_offset_min": 0,
+        "duration_min": 3,
+        "type": "intro",
+        "title": "Welcome + PCA Tip of the Week",
+        "drill_slugs": [],
+        "notes": "PCA Theme: Filling Tanks"
+      },
+      {
+        "sequence": 2,
+        "start_offset_min": 3,
+        "duration_min": 7,
+        "type": "warmup",
+        "title": "Stretch + Warm Up",
+        "drill_slugs": [],
+        "notes": "Run along the fence, then leg/arm stretches, finish with 20 jumping jacks."
+      },
+      {
+        "sequence": 3,
+        "start_offset_min": 10,
+        "duration_min": 35,
+        "type": "drill_block",
+        "title": "CP Week 10: Drill Sequence",
+        "drill_slugs": [
+          "cp-drop-step-and-crossover",
+          "cp-long-toss",
+          "cp-roll-and-toss-drill"
+        ],
+        "notes": "Cycle through drills as time permits. See per-drill cards for full description."
+      },
+      {
+        "sequence": 4,
+        "start_offset_min": 45,
+        "duration_min": 13,
+        "type": "situational",
+        "title": "Defensive Plays Workshop (2-3 plays)",
+        "drill_slugs": [],
+        "defensive_plays": [
+          "First baseman fielding a ground ball, tagging the bag",
+          "Third baseman fielding a slow roller, throwing to 1B"
+        ],
+        "notes": "Walk through each play once, then live reps. OK to repeat plays week to week."
+      },
+      {
+        "sequence": 5,
+        "start_offset_min": 58,
+        "duration_min": 2,
+        "type": "conclusion",
+        "title": "Conclusion + High Fives",
+        "drill_slugs": [],
+        "notes": "Review what they learned, remind of next event."
+      }
+    ]
+  },
+  {
+    "team_slug": "white-sox-farm2",
+    "scheduled_at": "2026-06-14T12:00:00-04:00",
+    "ends_at": "2026-06-14T13:00:00-04:00",
+    "duration_min": 60,
+    "type": "pregame",
+    "title": "Pre-game vs NSELL Farm 2 Athletics (home)",
+    "location": "10 Dedham Street,Newton,MA-02461 US",
+    "field_name": "Newton Highlands Playground > Newton Highlands",
+    "linked_game": {
+      "opponent": "NSELL Farm 2 Athletics",
+      "home_or_away": "home",
+      "game_starts_at": "2026-06-14T13:00:00-04:00"
+    },
+    "theme": "End-of-Season Game Play",
+    "blocks": [
+      {
+        "sequence": 1,
+        "start_offset_min": 0,
+        "duration_min": 3,
+        "type": "intro",
+        "title": "Welcome + PCA Tip of the Week",
+        "drill_slugs": [],
+        "notes": "PCA Theme: End-of-Season Game Play"
+      },
+      {
+        "sequence": 2,
+        "start_offset_min": 3,
+        "duration_min": 7,
+        "type": "warmup",
+        "title": "Stretch + Warm Up",
+        "drill_slugs": [],
+        "notes": "Run along the fence, then leg/arm stretches, finish with 20 jumping jacks."
+      },
+      {
+        "sequence": 3,
+        "start_offset_min": 10,
+        "duration_min": 35,
+        "type": "drill_block",
+        "title": "CP Week 11: Drill Sequence",
+        "drill_slugs": [
+          "cp-coach-pitch-6x6"
+        ],
+        "notes": "Cycle through drills as time permits. See per-drill cards for full description."
+      },
+      {
+        "sequence": 4,
+        "start_offset_min": 45,
+        "duration_min": 13,
+        "type": "situational",
+        "title": "Defensive Plays Workshop (2-3 plays)",
+        "drill_slugs": [],
+        "defensive_plays": [
+          "Catcher fielding a bunt and throwing to 1B",
+          "Backing up the throw \u2014 outfielder behind 2B"
+        ],
+        "notes": "Walk through each play once, then live reps. OK to repeat plays week to week."
+      },
+      {
+        "sequence": 5,
+        "start_offset_min": 58,
+        "duration_min": 2,
+        "type": "conclusion",
+        "title": "Conclusion + High Fives",
+        "drill_slugs": [],
+        "notes": "Review what they learned, remind of next event."
+      }
+    ]
+  },
+  {
+    "team_slug": "dodgers-teeball",
+    "scheduled_at": "2026-04-28T17:00:00-04:00",
+    "ends_at": "2026-04-28T18:00:00-04:00",
+    "duration_min": 60,
+    "type": "standalone",
+    "title": "Week 1 Practice",
+    "location": "94 Lincoln Street,Newton,MA-02461 US",
+    "field_name": "Hyde Playground > Hyde",
+    "linked_game": null,
+    "theme": "The Big Three (Have Fun, Try Hard, Be a Good Sport)",
+    "blocks": [
+      {
+        "sequence": 1,
+        "start_offset_min": 0,
+        "duration_min": 3,
+        "type": "intro",
+        "title": "Gather + Welcome",
+        "drill_slugs": [],
+        "notes": "Review names, PCA tip: The Big Three (Have Fun, Try Hard, Be a Good Sport)"
+      },
+      {
+        "sequence": 2,
+        "start_offset_min": 3,
+        "duration_min": 40,
+        "type": "drill_block",
+        "title": "T-Ball Week 1: Drill Sequence",
+        "drill_slugs": [
+          "tb-plastic-ball-tag",
+          "tb-grip-and-throw",
+          "tb-throwing-practice",
+          "tb-run-the-bases"
+        ],
+        "notes": "Follow the LL T-Ball weekly plan order. See per-drill cards."
+      },
+      {
+        "sequence": 3,
+        "start_offset_min": 43,
+        "duration_min": 13,
+        "type": "free_play",
+        "title": "Free Play / Scrimmage",
+        "drill_slugs": [],
+        "notes": "Unstructured play \u2014 kids tee up and hit, run bases, throw to a coach. Keep it FUN."
+      },
+      {
+        "sequence": 4,
+        "start_offset_min": 56,
+        "duration_min": 4,
+        "type": "conclusion",
+        "title": "Conclusion + High Fives",
+        "drill_slugs": [],
+        "notes": "Review what they learned, remind of next event."
+      }
+    ]
+  },
+  {
+    "team_slug": "dodgers-teeball",
+    "scheduled_at": "2026-05-03T15:00:00-04:00",
+    "ends_at": "2026-05-03T16:00:00-04:00",
+    "duration_min": 60,
+    "type": "standalone",
+    "title": "Week 2 Practice",
+    "location": "94 Lincoln Street,Newton,MA-02461 US",
+    "field_name": "Hyde Playground > Hyde",
+    "linked_game": null,
+    "theme": "Rebounding From Mistakes",
+    "blocks": [
+      {
+        "sequence": 1,
+        "start_offset_min": 0,
+        "duration_min": 3,
+        "type": "intro",
+        "title": "Gather + Welcome",
+        "drill_slugs": [],
+        "notes": "Review names, PCA tip: Rebounding From Mistakes"
+      },
+      {
+        "sequence": 2,
+        "start_offset_min": 3,
+        "duration_min": 40,
+        "type": "drill_block",
+        "title": "T-Ball Week 2: Drill Sequence",
+        "drill_slugs": [
+          "tb-statues",
+          "tb-team-throwing",
+          "tb-dry-practice-swing",
+          "tb-practice-swing"
+        ],
+        "notes": "Follow the LL T-Ball weekly plan order. See per-drill cards."
+      },
+      {
+        "sequence": 3,
+        "start_offset_min": 43,
+        "duration_min": 13,
+        "type": "free_play",
+        "title": "Free Play / Scrimmage",
+        "drill_slugs": [],
+        "notes": "Unstructured play \u2014 kids tee up and hit, run bases, throw to a coach. Keep it FUN."
+      },
+      {
+        "sequence": 4,
+        "start_offset_min": 56,
+        "duration_min": 4,
+        "type": "conclusion",
+        "title": "Conclusion + High Fives",
+        "drill_slugs": [],
+        "notes": "Review what they learned, remind of next event."
+      }
+    ]
+  },
+  {
+    "team_slug": "dodgers-teeball",
+    "scheduled_at": "2026-05-05T17:00:00-04:00",
+    "ends_at": "2026-05-05T18:00:00-04:00",
+    "duration_min": 60,
+    "type": "standalone",
+    "title": "Week 3 Practice",
+    "location": "94 Lincoln Street,Newton,MA-02461 US",
+    "field_name": "Hyde Playground > Hyde",
+    "linked_game": null,
+    "theme": "Filling Emotional Tanks",
+    "blocks": [
+      {
+        "sequence": 1,
+        "start_offset_min": 0,
+        "duration_min": 3,
+        "type": "intro",
+        "title": "Gather + Welcome",
+        "drill_slugs": [],
+        "notes": "Review names, PCA tip: Filling Emotional Tanks"
+      },
+      {
+        "sequence": 2,
+        "start_offset_min": 3,
+        "duration_min": 40,
+        "type": "drill_block",
+        "title": "T-Ball Week 3: Drill Sequence",
+        "drill_slugs": [
+          "tb-left-field-center-field-right-field",
+          "tb-position-fitness",
+          "tb-swing-and-run",
+          "tb-practice-throwing"
+        ],
+        "notes": "Follow the LL T-Ball weekly plan order. See per-drill cards."
+      },
+      {
+        "sequence": 3,
+        "start_offset_min": 43,
+        "duration_min": 13,
+        "type": "free_play",
+        "title": "Free Play / Scrimmage",
+        "drill_slugs": [],
+        "notes": "Unstructured play \u2014 kids tee up and hit, run bases, throw to a coach. Keep it FUN."
+      },
+      {
+        "sequence": 4,
+        "start_offset_min": 56,
+        "duration_min": 4,
+        "type": "conclusion",
+        "title": "Conclusion + High Fives",
+        "drill_slugs": [],
+        "notes": "Review what they learned, remind of next event."
+      }
+    ]
+  },
+  {
+    "team_slug": "dodgers-teeball",
+    "scheduled_at": "2026-05-12T17:00:00-04:00",
+    "ends_at": "2026-05-12T18:00:00-04:00",
+    "duration_min": 60,
+    "type": "standalone",
+    "title": "Week 4 Practice",
+    "location": "94 Lincoln Street,Newton,MA-02461 US",
+    "field_name": "Hyde Playground > Hyde",
+    "linked_game": null,
+    "theme": "Honoring the Game",
+    "blocks": [
+      {
+        "sequence": 1,
+        "start_offset_min": 0,
+        "duration_min": 3,
+        "type": "intro",
+        "title": "Gather + Welcome",
+        "drill_slugs": [],
+        "notes": "Review names, PCA tip: Honoring the Game"
+      },
+      {
+        "sequence": 2,
+        "start_offset_min": 3,
+        "duration_min": 40,
+        "type": "drill_block",
+        "title": "T-Ball Week 4: Drill Sequence",
+        "drill_slugs": [
+          "tb-clean-up-the-backyard",
+          "tb-fielding",
+          "tb-tee-hitting",
+          "tb-run-the-bases"
+        ],
+        "notes": "Follow the LL T-Ball weekly plan order. See per-drill cards."
+      },
+      {
+        "sequence": 3,
+        "start_offset_min": 43,
+        "duration_min": 13,
+        "type": "free_play",
+        "title": "Free Play / Scrimmage",
+        "drill_slugs": [],
+        "notes": "Unstructured play \u2014 kids tee up and hit, run bases, throw to a coach. Keep it FUN."
+      },
+      {
+        "sequence": 4,
+        "start_offset_min": 56,
+        "duration_min": 4,
+        "type": "conclusion",
+        "title": "Conclusion + High Fives",
+        "drill_slugs": [],
+        "notes": "Review what they learned, remind of next event."
+      }
+    ]
+  },
+  {
+    "team_slug": "dodgers-teeball",
+    "scheduled_at": "2026-05-19T17:00:00-04:00",
+    "ends_at": "2026-05-19T18:00:00-04:00",
+    "duration_min": 60,
+    "type": "standalone",
+    "title": "Week 5 Practice",
+    "location": "94 Lincoln Street,Newton,MA-02461 US",
+    "field_name": "Hyde Playground > Hyde",
+    "linked_game": null,
+    "theme": "Trying Hard",
+    "blocks": [
+      {
+        "sequence": 1,
+        "start_offset_min": 0,
+        "duration_min": 3,
+        "type": "intro",
+        "title": "Gather + Welcome",
+        "drill_slugs": [],
+        "notes": "Review names, PCA tip: Trying Hard"
+      },
+      {
+        "sequence": 2,
+        "start_offset_min": 3,
+        "duration_min": 40,
+        "type": "drill_block",
+        "title": "T-Ball Week 5: Drill Sequence",
+        "drill_slugs": [
+          "tb-red-light-green-light",
+          "tb-catching-practice",
+          "tb-offense-and-defense-progression-3"
+        ],
+        "notes": "Follow the LL T-Ball weekly plan order. See per-drill cards."
+      },
+      {
+        "sequence": 3,
+        "start_offset_min": 43,
+        "duration_min": 13,
+        "type": "free_play",
+        "title": "Free Play / Scrimmage",
+        "drill_slugs": [],
+        "notes": "Unstructured play \u2014 kids tee up and hit, run bases, throw to a coach. Keep it FUN."
+      },
+      {
+        "sequence": 4,
+        "start_offset_min": 56,
+        "duration_min": 4,
+        "type": "conclusion",
+        "title": "Conclusion + High Fives",
+        "drill_slugs": [],
+        "notes": "Review what they learned, remind of next event."
+      }
+    ]
+  },
+  {
+    "team_slug": "dodgers-teeball",
+    "scheduled_at": "2026-05-26T17:00:00-04:00",
+    "ends_at": "2026-05-26T18:00:00-04:00",
+    "duration_min": 60,
+    "type": "standalone",
+    "title": "Week 6 Practice",
+    "location": "94 Lincoln Street,Newton,MA-02461 US",
+    "field_name": "Hyde Playground > Hyde",
+    "linked_game": null,
+    "theme": "Teachable Spirit",
+    "blocks": [
+      {
+        "sequence": 1,
+        "start_offset_min": 0,
+        "duration_min": 3,
+        "type": "intro",
+        "title": "Gather + Welcome",
+        "drill_slugs": [],
+        "notes": "Review names, PCA tip: Teachable Spirit"
+      },
+      {
+        "sequence": 2,
+        "start_offset_min": 3,
+        "duration_min": 40,
+        "type": "drill_block",
+        "title": "T-Ball Week 6: Drill Sequence",
+        "drill_slugs": [
+          "tb-zigzagging",
+          "tb-pop-ups",
+          "tb-tee-hitting",
+          "tb-run-the-bases-relay"
+        ],
+        "notes": "Follow the LL T-Ball weekly plan order. See per-drill cards."
+      },
+      {
+        "sequence": 3,
+        "start_offset_min": 43,
+        "duration_min": 13,
+        "type": "free_play",
+        "title": "Free Play / Scrimmage",
+        "drill_slugs": [],
+        "notes": "Unstructured play \u2014 kids tee up and hit, run bases, throw to a coach. Keep it FUN."
+      },
+      {
+        "sequence": 4,
+        "start_offset_min": 56,
+        "duration_min": 4,
+        "type": "conclusion",
+        "title": "Conclusion + High Fives",
+        "drill_slugs": [],
+        "notes": "Review what they learned, remind of next event."
+      }
+    ]
+  },
+  {
+    "team_slug": "dodgers-teeball",
+    "scheduled_at": "2026-06-02T17:00:00-04:00",
+    "ends_at": "2026-06-02T18:00:00-04:00",
+    "duration_min": 60,
+    "type": "standalone",
+    "title": "Week 7 Practice",
+    "location": "94 Lincoln Street,Newton,MA-02461 US",
+    "field_name": "Hyde Playground > Hyde",
+    "linked_game": null,
+    "theme": "End-of-Season Game",
+    "blocks": [
+      {
+        "sequence": 1,
+        "start_offset_min": 0,
+        "duration_min": 3,
+        "type": "intro",
+        "title": "Gather + Welcome",
+        "drill_slugs": [],
+        "notes": "Review names, PCA tip: End-of-Season Game"
+      },
+      {
+        "sequence": 2,
+        "start_offset_min": 3,
+        "duration_min": 40,
+        "type": "drill_block",
+        "title": "T-Ball Week 7: Drill Sequence",
+        "drill_slugs": [
+          "tb-the-great-baseball",
+          "tb-inning-practice",
+          "tb-hit-the-bucket"
+        ],
+        "notes": "Follow the LL T-Ball weekly plan order. See per-drill cards."
+      },
+      {
+        "sequence": 3,
+        "start_offset_min": 43,
+        "duration_min": 13,
+        "type": "free_play",
+        "title": "Free Play / Scrimmage",
+        "drill_slugs": [],
+        "notes": "Unstructured play \u2014 kids tee up and hit, run bases, throw to a coach. Keep it FUN."
+      },
+      {
+        "sequence": 4,
+        "start_offset_min": 56,
+        "duration_min": 4,
+        "type": "conclusion",
+        "title": "Conclusion + High Fives",
+        "drill_slugs": [],
+        "notes": "Review what they learned, remind of next event."
+      }
+    ]
+  }
+]

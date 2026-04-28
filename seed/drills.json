@@ -1,0 +1,2419 @@
+[
+  {
+    "slug": "p90-jogging",
+    "name": "Jogging",
+    "category": "warmup",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "None",
+    "setup": "Players line up to jog around the field at a comfortable pace.",
+    "instructions": "Players gently jog around the field to increase heart rate and warm up muscles. Allow gradual increase in intensity.",
+    "coaching_points": "Comfortable pace, steady increase in tempo.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 4,
+      "display": "Perfect 90 p.4"
+    }
+  },
+  {
+    "slug": "p90-high-knees",
+    "name": "High Knees",
+    "category": "warmup",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "None",
+    "setup": "Players line up across the field.",
+    "instructions": "While moving forward, players lift their knees as high as possible, alternating legs with each step.",
+    "coaching_points": "Maintain upright posture; use arms to maintain balance and momentum.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 4,
+      "display": "Perfect 90 p.4"
+    }
+  },
+  {
+    "slug": "p90-butt-kickers",
+    "name": "Butt Kickers",
+    "category": "warmup",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "None",
+    "setup": "Players line up across the field.",
+    "instructions": "Players kick their heels up toward their buttocks while moving forward, aiming for quick light contact.",
+    "coaching_points": "Warms up quadriceps; improves leg turnover.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 4,
+      "display": "Perfect 90 p.4"
+    }
+  },
+  {
+    "slug": "p90-side-shuffles",
+    "name": "Side Shuffles",
+    "category": "warmup",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "None",
+    "setup": "Players line up sideways across the field.",
+    "instructions": "Players move laterally with feet wide apart, shifting from side to side without crossing legs.",
+    "coaching_points": "Activates lateral leg muscles; improves agility.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 4,
+      "display": "Perfect 90 p.4"
+    }
+  },
+  {
+    "slug": "p90-arm-circles",
+    "name": "Arm Circles",
+    "category": "warmup",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "None",
+    "setup": "Players stand with arms extended parallel to the ground.",
+    "instructions": "Make small to large circles, first forward, then reverse to backward direction.",
+    "coaching_points": "Warms up shoulders, chest, upper back; preps upper body for throwing and batting.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 4,
+      "display": "Perfect 90 p.4"
+    }
+  },
+  {
+    "slug": "p90-walking-lunges",
+    "name": "Walking Lunges",
+    "category": "warmup",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "None",
+    "setup": "Players line up to walk forward.",
+    "instructions": "Step forward into a lunge keeping front knee above the ankle (not past the toes). Alternate legs moving forward with each lunge.",
+    "coaching_points": "Engages glutes, hamstrings, quads.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 4,
+      "display": "Perfect 90 p.4"
+    }
+  },
+  {
+    "slug": "p90-inchworms",
+    "name": "Inchworms",
+    "category": "warmup",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "None",
+    "setup": "Players start in a standing position.",
+    "instructions": "Hinge at the waist, place hands on the ground, walk hands forward into plank position. Then walk feet toward the hands keeping legs straight. Repeat moving forward.",
+    "coaching_points": "Full-body warmup; emphasize keeping legs straight on the foot-walk.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 4,
+      "display": "Perfect 90 p.4"
+    }
+  },
+  {
+    "slug": "p90-carioca",
+    "name": "Carioca",
+    "category": "warmup",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "None",
+    "setup": "Players line up sideways across the field.",
+    "instructions": "Move laterally, crossing trail leg in front of and then behind the lead leg, alternating.",
+    "coaching_points": "Fluid, rhythmic; arms help balance. Improves footwork, hip flexibility, dynamic balance.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 4,
+      "display": "Perfect 90 p.4"
+    }
+  },
+  {
+    "slug": "p90-leg-swings",
+    "name": "Leg Swings",
+    "category": "warmup",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "Fence or partner for balance",
+    "setup": "Players hold onto a fence or partner.",
+    "instructions": "Swing one leg forward and backward, then switch legs. Can also be done side to side.",
+    "coaching_points": "Warms up leg muscles and hip flexors; improves flexibility and ROM.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 4,
+      "display": "Perfect 90 p.4"
+    }
+  },
+  {
+    "slug": "p90-spiderman-stretch",
+    "name": "Spiderman Stretch",
+    "category": "warmup",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "None",
+    "setup": "Players start in a push-up position.",
+    "instructions": "Step forward with one foot placing it outside the hand on the same side; bring hips down toward the ground to deepen the stretch. Hold briefly, return, repeat with the other leg.",
+    "coaching_points": "Targets hip flexors, hamstrings, groin.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 4,
+      "display": "Perfect 90 p.4"
+    }
+  },
+  {
+    "slug": "p90-forward-leg-swings",
+    "name": "Forward Leg Swings",
+    "category": "warmup",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "Fence or partner",
+    "setup": "Players find a stable object to hold.",
+    "instructions": "Holding the object, swing one leg forward and backward in a controlled motion. Repeat with the other leg.",
+    "coaching_points": "Warms up hip flexors, hamstrings, glutes; improves leg motion range.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 5,
+      "display": "Perfect 90 p.5"
+    }
+  },
+  {
+    "slug": "p90-lateral-leg-swings",
+    "name": "Lateral Leg Swings",
+    "category": "warmup",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "Fence or partner",
+    "setup": "Players find a stable object to hold.",
+    "instructions": "Swing one leg side to side across the body in a controlled motion. Repeat with the other leg.",
+    "coaching_points": "Targets adductors and abductors; promotes flexibility and hip coordination.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 5,
+      "display": "Perfect 90 p.5"
+    }
+  },
+  {
+    "slug": "p90-skipping-for-height",
+    "name": "Skipping for Height",
+    "category": "warmup",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "None",
+    "setup": "Players line up to skip across the field.",
+    "instructions": "Players skip forward, focusing on driving the knee up and exploding upward off the opposite leg to gain height. Land softly and continue skipping.",
+    "coaching_points": "Ballistic warmup; improves coordination, lower body explosiveness, body awareness.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 5,
+      "display": "Perfect 90 p.5"
+    }
+  },
+  {
+    "slug": "p90-dynamic-chest-stretch",
+    "name": "Dynamic Chest Stretch",
+    "category": "warmup",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "None",
+    "setup": "Players stand with arms extended in front of them.",
+    "instructions": "Players swing their arms wide to the sides and back across the body in a hugging motion, returning to start.",
+    "coaching_points": "Warms up chest, shoulders, upper back; preps upper body for throwing.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 5,
+      "display": "Perfect 90 p.5"
+    }
+  },
+  {
+    "slug": "p90-arm-crosses",
+    "name": "Arm Crosses",
+    "category": "warmup",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "None",
+    "setup": "Players stand with arms extended out to the sides.",
+    "instructions": "Swing arms across the chest in a crossing motion (like a hug), then back out to a wide T position. Repeat fluidly.",
+    "coaching_points": "Loosens shoulders and upper back.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 5,
+      "display": "Perfect 90 p.5"
+    }
+  },
+  {
+    "slug": "p90-hip-circles",
+    "name": "Hip Circles",
+    "category": "warmup",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "None",
+    "setup": "Players stand with hands on hips and feet shoulder-width apart.",
+    "instructions": "Standing on one foot, players make circles with the opposite knee in one direction, then the other. Repeat with the other leg.",
+    "coaching_points": "Improves hip flexibility and mobility.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 5,
+      "display": "Perfect 90 p.5"
+    }
+  },
+  {
+    "slug": "p90-backpedal-to-sprint",
+    "name": "Backpedal to Sprint",
+    "category": "warmup",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "None",
+    "setup": "Players line up at one end of the field.",
+    "instructions": "Players backpedal for a designated distance, then quickly transition to sprint forward for the same distance.",
+    "coaching_points": "Trains transition between movement directions; key for fielding and base running.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 5,
+      "display": "Perfect 90 p.5"
+    }
+  },
+  {
+    "slug": "p90-pinwheels",
+    "name": "Pinwheels",
+    "category": "warmup",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "None",
+    "setup": "Players stand with arms extended straight out at shoulder height.",
+    "instructions": "Players rotate arms in opposite directions (one forward, one backward) for 10-15 seconds, then switch.",
+    "coaching_points": "Improves shoulder coordination, mobility, and warms up rotator cuffs.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 5,
+      "display": "Perfect 90 p.5"
+    }
+  },
+  {
+    "slug": "p90-frankensteins",
+    "name": "Frankensteins",
+    "category": "warmup",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "None",
+    "setup": "Players line up to walk forward.",
+    "instructions": "Walking forward, players keep one leg straight and kick it up to the opposite hand. Alternate legs every step.",
+    "coaching_points": "Warms up hamstrings; improves dynamic flexibility.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 5,
+      "display": "Perfect 90 p.5"
+    }
+  },
+  {
+    "slug": "p90-one-knee-dart-throw",
+    "name": "One Knee Dart Throw",
+    "category": "throwing",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "Baseballs",
+    "setup": "Players pair off about 5 feet apart on the ground. Glove-side knee up, throwing-side knee down on the ground.",
+    "instructions": "Form a 'dart' with the throwing arm bent at 90 degrees, hand by ear. Throw the ball back and forth focusing on grip and a strong wrist snap. The ball is released from the partner so it arrives at the partner's chest.",
+    "coaching_points": "Focus on grip, wrist snap, and a high release point. Don't bend forward.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 6,
+      "display": "Perfect 90 p.6"
+    }
+  },
+  {
+    "slug": "p90-one-knee-follow-through",
+    "name": "One Knee Follow Through",
+    "category": "throwing",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "Baseballs",
+    "setup": "Players pair off about 10 feet apart. Glove-side knee up, throwing-side knee down.",
+    "instructions": "Maintain the one-knee position used in the Dart Throw. Now players add a full follow-through, throwing the ball so the throwing hand finishes by the opposite hip.",
+    "coaching_points": "Emphasize rotating the upper body while keeping the throwing-side knee down. Follow through across the body.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 6,
+      "display": "Perfect 90 p.6"
+    }
+  },
+  {
+    "slug": "p90-standing-twist",
+    "name": "Standing Twist",
+    "category": "throwing",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "Baseballs",
+    "setup": "Players stand up and pair off about 15-20 feet apart.",
+    "instructions": "Add a torso turn between throws. Players turn torso (load) before delivering each throw, then follow through.",
+    "coaching_points": "Trains hip and shoulder separation; ball flight should improve as they engage their core.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 6,
+      "display": "Perfect 90 p.6"
+    }
+  },
+  {
+    "slug": "p90-standing-throw-from-stretch",
+    "name": "Standing Throw from Stretch",
+    "category": "throwing",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "Baseballs",
+    "setup": "Players stand 20-30 feet apart in their throwing pairs.",
+    "instructions": "Begin from a stretch position (like a pitcher with a runner on first). Emphasize on leg drive and finishing the throw to power the throw.",
+    "coaching_points": "Use this to ramp arm strength up. Encourage players to feel the legs leading the throw.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 6,
+      "display": "Perfect 90 p.6"
+    }
+  },
+  {
+    "slug": "p90-long-toss",
+    "name": "Long Toss",
+    "category": "throwing",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "Baseballs",
+    "setup": "Players in pairs at a comfortable starting distance.",
+    "instructions": "Begin playing catch with partners at a comfortable distance. After every couple throws, take one step back to build separation. Reach a maximum distance, then walk back in.",
+    "coaching_points": "Reinforces the importance of distance and accuracy of throwing. Limit max distance to age-appropriate range.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 6,
+      "display": "Perfect 90 p.6"
+    }
+  },
+  {
+    "slug": "p90-bucket-drill",
+    "name": "Bucket Drill",
+    "category": "hitting",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "Bucket, Tee, Bats, Balls",
+    "setup": "Place a bucket of balls behind the front foot of the hitter at the tee.",
+    "instructions": "Hitter swings off the tee, attempting to brush the bucket with their front foot when they stride. This trains a controlled, short stride during the swing. Player digs balls out of the bucket during the drill.",
+    "coaching_points": "Reinforces a soft front-side and prevents lunging.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 7,
+      "display": "Perfect 90 p.7"
+    }
+  },
+  {
+    "slug": "p90-heavy-ball-drill",
+    "name": "Heavy Ball Drill",
+    "category": "hitting",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "Heavy Ball, Tee, Bat",
+    "setup": "Place a heavy ball on a tee.",
+    "instructions": "Hitter takes a normal swing. The heavy ball trains a strong path through contact with the ball and forces the hitter to drive through the ball to the side of the heavier ball.",
+    "coaching_points": "Helps build a confident, driving hand path. Don't let players over-swing.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 7,
+      "display": "Perfect 90 p.7"
+    }
+  },
+  {
+    "slug": "p90-connection-ball-drill",
+    "name": "Connection Ball Drill",
+    "category": "hitting",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "Connection Ball (or rolled-up shirt/towel), Bats, Balls/Tee",
+    "setup": "Place a connection ball or rolled-up shirt between both elbows of the hitter. The ball should hold in place as they get into their batting stance.",
+    "instructions": "Hitter takes a swing without dropping the ball. The barrel of the bat should reach out around the barrel of the bat as they swing. Mounted on swinging through.",
+    "coaching_points": "Forces the hitter to keep arms connected to the body through the swing; eliminates 'pulling off' the ball.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 7,
+      "display": "Perfect 90 p.7"
+    }
+  },
+  {
+    "slug": "p90-block-drill",
+    "name": "Block Drill",
+    "category": "hitting",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "Block of wood (or 2x4), Tee, Bats, Balls",
+    "setup": "Hitter starts in a normal batting stance.",
+    "instructions": "Hitter takes a normal stance for a swing, with a block of wood (or 2x4) along the inside of their back foot. The block keeps the back foot from sliding forward and prevents the hitter from a back-foot hop. Hitter takes their swing keeping the back foot pinned to the block.",
+    "coaching_points": "Trains weight transfer through the swing without leaking power off the back side.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 7,
+      "display": "Perfect 90 p.7"
+    }
+  },
+  {
+    "slug": "p90-cage-work",
+    "name": "Cage Work",
+    "category": "hitting",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "Cage, Bat, Balls, L-Screen, Pitching Machine (optional)",
+    "setup": "Setup a hitting cage with the hitter at a tee or live pitch from a coach behind an L-screen.",
+    "instructions": "The batter practices identifying the pitch type and location as early as possible. The hitter is identifying the pitch and location, mimicking the sequence and timing of an at-bat. Especially helpful for tracking timing and pitch recognition.",
+    "coaching_points": "Live reps; layer in pitch tracking, timing, and at-bat-style focus.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 7,
+      "display": "Perfect 90 p.7"
+    }
+  },
+  {
+    "slug": "p90-backhand-drill",
+    "name": "Backhand Drill",
+    "category": "infield",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "Baseballs, Cones (optional)",
+    "setup": "Make a line of cones about 5 feet to the left of the players. Players line up at home plate.",
+    "instructions": "Players line up at the cone closest to home plate. One at a time, in a hand toss to the backhand, the player stops the ball with their glove and uses two hands to bring the ball back to the chest. The player at the front of the line backhands and the next player rotates in.",
+    "coaching_points": "Backhand technique: glove on the ground, two hands when possible, work feet to the ball.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 8,
+      "display": "Perfect 90 p.8"
+    }
+  },
+  {
+    "slug": "p90-corners-drill",
+    "name": "Corners Drill",
+    "category": "infield",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "Baseballs",
+    "setup": "Position 1 player at first, 1 at third base, and the remaining players line up behind them.",
+    "instructions": "The player at 3B fields a hit and throws home, the throw goes out to first base for an out, the player goes to the back of the line. The player at 1B fields a hit and throws across the diamond to 3B (the throws of the line). The 3B players, the 1B players continue this pattern, the lines combine.",
+    "coaching_points": "Trains fielding under pressure and accurate cross-diamond throws.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 8,
+      "display": "Perfect 90 p.8"
+    }
+  },
+  {
+    "slug": "p90-footwork-drill",
+    "name": "Footwork Drill",
+    "category": "infield",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "Baseballs",
+    "setup": "Players line up at the cones (or position) at the dirt in front of them. Toss a ball to the side.",
+    "instructions": "Players take 3 quick shuffle steps to get to the ball, field it, then make a quick controlled throw to a target. Run them through this from both backhand and forehand sides.",
+    "coaching_points": "Quick feet, low base, gather and throw in rhythm.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 8,
+      "display": "Perfect 90 p.8"
+    }
+  },
+  {
+    "slug": "p90-double-play-drill",
+    "name": "Double Play Drill",
+    "category": "infield",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "Baseballs",
+    "setup": "Split the players evenly between SS and 2B. Have a net or another coach at 1B to receive throws.",
+    "instructions": "Coach hits ground balls between SS and 2B. The player at SS fields and tosses to 2B who turns and throws to 1B. The next player in line rotates to the position. Then have them switch which side starts the play.",
+    "coaching_points": "Connect the two pieces \u2014 fielder + pivot. Glove flips on close balls, throws on stretchy ones.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 8,
+      "display": "Perfect 90 p.8"
+    }
+  },
+  {
+    "slug": "p90-relay-drill",
+    "name": "Relay Drill",
+    "category": "infield",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "Baseballs",
+    "setup": "Line three players in a long line about 30 feet apart. The closest player is the deep fielder.",
+    "instructions": "The deep player throws the ball to the cut-off player. The cut-off catches and pivots, throwing to the third player. Run with one player at each spot, then rotate. Try to complete the relay in the fewest throws possible.",
+    "coaching_points": "Hit the cut-off; pivot toward the throwing-side; receive on the glove side.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 8,
+      "display": "Perfect 90 p.8"
+    }
+  },
+  {
+    "slug": "p90-scarecrow-drill",
+    "name": "Scarecrow Drill",
+    "category": "pitching",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "Baseballs",
+    "setup": "Pitcher gets in a pitching stance with arms extended out like a scarecrow.",
+    "instructions": "Lifting the front leg, slowly bring weight to the back leg. Slowly rotate to a pitching position with the front foot down and weight transferred. From this scarecrow, complete the pitching motion to the catcher.",
+    "coaching_points": "Isolates balance and weight transfer at the slowest possible tempo.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 9,
+      "display": "Perfect 90 p.9"
+    }
+  },
+  {
+    "slug": "p90-finish-drill",
+    "name": "Finish Drill",
+    "category": "pitching",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "Baseballs",
+    "setup": "Starting in an open position with the back foot in a pitcher's stance, glove and ball both at the chest.",
+    "instructions": "Slowly rock the body forward and finish the pitch. The pitcher should be in a balanced position to finish the motion (head over feet, arm at the chest at the level of the throw).",
+    "coaching_points": "Reinforces balanced finish and a controlled follow-through.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 9,
+      "display": "Perfect 90 p.9"
+    }
+  },
+  {
+    "slug": "p90-towel-drill",
+    "name": "Towel Drill",
+    "category": "pitching",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "Hand towel",
+    "setup": "Players get into pitching stance with a towel in hand instead of a ball.",
+    "instructions": "Place a glove or coach 1 target in front of the pitcher (about 1.5x stride length away). The pitcher's job is to throw the towel and hit the target. Focus on full extension out front.",
+    "coaching_points": "Trains arm extension and finish without the stress of a ball.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 9,
+      "display": "Perfect 90 p.9"
+    }
+  },
+  {
+    "slug": "p90-reach-back-drill",
+    "name": "Reach Back Drill",
+    "category": "pitching",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "Baseballs",
+    "setup": "Pitcher gets into the L position, arm bent at 90, glove side up. Front foot lands so the back foot is the back foot of the pitching motion.",
+    "instructions": "After the player lifts his front foot, he must show the ball to the back fence (full reach back), then complete the throw. Repeat this on the same line as the catcher.",
+    "coaching_points": "Promotes arm extension and a full throwing arc; reduces short-arming.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 9,
+      "display": "Perfect 90 p.9"
+    }
+  },
+  {
+    "slug": "p90-knockout",
+    "name": "Knockout",
+    "category": "pitching",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "Baseballs, target (cup, cones)",
+    "setup": "Set up a pyramid of cones (or cups) at the catcher's spot, behind home plate.",
+    "instructions": "Players take turns throwing a pitch trying to knock down the most cones. Each pitch will count to score, the most cones at the end of the game wins. Keep rotating through the line.",
+    "coaching_points": "Adds pressure and target-focus to bullpen reps.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 9,
+      "display": "Perfect 90 p.9"
+    }
+  },
+  {
+    "slug": "p90-fly-ball-drill",
+    "name": "Fly Ball Drill",
+    "category": "outfield",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "Baseballs",
+    "setup": "Set up 4 cones in a diamond pattern about 30 feet apart. Players line up at the cone on the right.",
+    "instructions": "Throw a pop fly into the middle of the diamond. The first player runs under the ball to make the catch, then lines up at the next cone. Each player proceeds to catch a fly ball, starting from each cone.",
+    "coaching_points": "Reads off the bat; get under the ball and use two hands.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 10,
+      "display": "Perfect 90 p.10"
+    }
+  },
+  {
+    "slug": "p90-on-the-run-drill",
+    "name": "On-The-Run Drill",
+    "category": "outfield",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "Baseballs",
+    "setup": "Players line up behind a cone next to the coach.",
+    "instructions": "On the coach's signal, the first player starts to run. Coach throws a pop fly to the player who attempts to make the catch on the run. Player then runs the ball back to the coach and gets back in line. Each player takes a turn.",
+    "coaching_points": "Trains running catches and tracking on the move.",
+    "source": {
+      "document_slug": null,
+      "page": null,
+      "display": "outfield"
+    }
+  },
+  {
+    "slug": "p90-blind-fly-ball-drill",
+    "name": "Blind Fly Ball Drill",
+    "category": "outfield",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "Baseballs, bat",
+    "setup": "3-4 players line up side-by-side, 10 feet apart, in the outfield facing the fence.",
+    "instructions": "Coach hits a fly ball toward the players. When players hear the ball hit the bat, they turn around, find the ball, and attempt to catch it in the air. The player closest to the ball calls 'I got it!' and makes the catch. Other players back off once the ball is called.",
+    "coaching_points": "Trains reaction, communication, and calling for the ball.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 10,
+      "display": "Perfect 90 p.10"
+    }
+  },
+  {
+    "slug": "p90-outfield-footwork-drill",
+    "name": "Outfield Footwork Drill",
+    "category": "outfield",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "None (whistle / verbal cues)",
+    "setup": "Players start in the outfield 8-10 feet apart, facing the coach.",
+    "instructions": "Players respond to the coach's signals: Point right = left foot crossover then sprint right 3 steps. Point left = right foot crossover then sprint left 3 steps. Point back right = right foot drop step then sprint back right 3 steps. Point back left = left foot drop step then sprint back left 3 steps.",
+    "coaching_points": "Drop step, crossover step, then turn-and-go. Quality over speed.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 10,
+      "display": "Perfect 90 p.10"
+    }
+  },
+  {
+    "slug": "p90-target-drill",
+    "name": "Target Drill",
+    "category": "outfield",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "Baseballs, 3 buckets",
+    "setup": "Players line up in center field. Three buckets are stacked in a triangle on home plate.",
+    "instructions": "Players take turns throwing a ball from center field to home plate. The first player to knock over the buckets wins.",
+    "coaching_points": "Hit the cut-off in real games; here, focus on long-throw accuracy and arm strength.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 10,
+      "display": "Perfect 90 p.10"
+    }
+  },
+  {
+    "slug": "p90-rounding-1st-base-drill",
+    "name": "Rounding 1st Base Drill",
+    "category": "baserunning",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "Cones",
+    "setup": "Players line up at home plate. Place a cone outside the 1B line and a 2nd cone 10 ft from 1B.",
+    "instructions": "Player 1 runs from home to first, taking a wide angle outside of the first cone to make the turn, stepping on the inside corner of 1B with his right foot. Player continues on to second base staying inside of the second cone. Next player continues until everyone has gone.",
+    "coaching_points": "Banana the path; right foot on the inside corner; head up to look for the ball.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 11,
+      "display": "Perfect 90 p.11"
+    }
+  },
+  {
+    "slug": "p90-sliding-drill",
+    "name": "Sliding Drill",
+    "category": "baserunning",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "Cardboard sheets",
+    "setup": "Players line up behind a cone. About 40 feet from the cone, place a few sheets of cardboard.",
+    "instructions": "One at a time, each player takes a turn running and sliding onto the cardboard. Practice proper feet-first sliding technique: lead leg extended, trailing leg folded at a right angle under the lead leg.",
+    "coaching_points": "Hands up, slide on the bottom (not the side), eyes forward.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 11,
+      "display": "Perfect 90 p.11"
+    }
+  },
+  {
+    "slug": "p90-tag-up-drill",
+    "name": "Tag Up Drill",
+    "category": "baserunning",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "Baseballs",
+    "setup": "Start with runners on all 3 bases. The rest of the players line up at home plate.",
+    "instructions": "Coach stands in middle of infield and tosses himself a high fly ball. Player at home plate runs to 1B. The other three runners tag up on their base and prepare to advance once the coach catches the ball. Don't leave early!",
+    "coaching_points": "Eyes on the catch, not the ball \u2014 wait for first contact.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 11,
+      "display": "Perfect 90 p.11"
+    }
+  },
+  {
+    "slug": "p90-reaction-drill",
+    "name": "Reaction Drill",
+    "category": "baserunning",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "Baseballs",
+    "setup": "Players line up at first base.",
+    "instructions": "One at a time, they take the position of a runner on first base. Coach throws a ball up in the air. Runner cannot leave the base until the ball hits the ground. As soon as it hits, runner takes off toward 2B. This works on the runner's reaction time.",
+    "coaching_points": "Explosive first step; head down in the first three steps.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 11,
+      "display": "Perfect 90 p.11"
+    }
+  },
+  {
+    "slug": "p90-base-race-drill",
+    "name": "Base Race Drill",
+    "category": "baserunning",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "Stopwatch (optional)",
+    "setup": "Players line up at home plate.",
+    "instructions": "On the coach's signal the first player begins to run the bases. Time each player as they run from home all the way around. Alternatively, have the next runner start running once the runner in front reaches 1B. Don't let the runner behind you pass you!",
+    "coaching_points": "Tighten the angles around 1B and 2B; head up; full speed home.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 11,
+      "display": "Perfect 90 p.11"
+    }
+  },
+  {
+    "slug": "p90-wild-pitch-drill",
+    "name": "Wild Pitch Drill",
+    "category": "catcher",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "Baseballs, catcher's gear, backstop",
+    "setup": "Catcher gets in stance behind home plate. Coach stands in front of home plate.",
+    "instructions": "Coach throws a ball against the backstop. Catcher pops up, turns around, locates the ball, and gets to it as fast as possible. Catcher then makes a good throw to coach at home plate.",
+    "coaching_points": "Find the ball first, then get to it; controlled throw, not a panic throw.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 12,
+      "display": "Perfect 90 p.12"
+    }
+  },
+  {
+    "slug": "p90-blocking-drill",
+    "name": "Blocking Drill",
+    "category": "catcher",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "Baseballs, catcher's gear",
+    "setup": "Catcher starts in stance behind home plate.",
+    "instructions": "Coach throws a pitch that lands in the dirt in front of the catcher. Catcher drops to his knees with legs wide, throwing hand behind glove covering the hole between legs. Chin is down. Catcher uses his body to block the ball, attempting to have it bounce back onto home plate.",
+    "coaching_points": "Chin down, glove between knees, soft chest, ball bounces in front of you.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 12,
+      "display": "Perfect 90 p.12"
+    }
+  },
+  {
+    "slug": "p90-stance-drill",
+    "name": "Stance Drill",
+    "category": "catcher",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "Catcher's gear (optional)",
+    "setup": "Start in an athletic stance, feet shoulder-width apart.",
+    "instructions": "Drop your elbows to your knees, keeping your back flat. With toes pointed slightly to the outside, shift weight back and forth. Slowly sit back, lowering your body as you continue to shift until you reach a comfortable squatting position.",
+    "coaching_points": "Comfortable squat, back flat, weight balanced. Build endurance for game-like reps.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 12,
+      "display": "Perfect 90 p.12"
+    }
+  },
+  {
+    "slug": "p90-catcher-pop-up-drill",
+    "name": "Catcher Pop Up Drill",
+    "category": "catcher",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "Baseballs, catcher's mask",
+    "setup": "Catcher starts in stance behind home plate.",
+    "instructions": "Coach says 'go' and throws a ball straight up in the air behind the catcher. Catcher pops up, removes mask, and finds the ball. Once the catcher locates the ball, he tosses the mask in the other direction and attempts to catch the ball. Make sure not to toss the mask until you have located the ball.",
+    "coaching_points": "Find ball first, then toss mask away from where you'll catch.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 12,
+      "display": "Perfect 90 p.12"
+    }
+  },
+  {
+    "slug": "p90-throw-down-drill",
+    "name": "Throw Down Drill",
+    "category": "catcher",
+    "level_tags": [
+      "AAA",
+      "Farm 2"
+    ],
+    "equipment": "Baseballs, catcher's gear",
+    "setup": "Catcher gets in stance behind home plate. A player is in position at SS / 2B as a tag receiver.",
+    "instructions": "Coach throws a pitch to the catcher. The catcher receives, transfers, and makes a throw to the SS/2B as if a runner is stealing. Repeat to build accuracy and quickness.",
+    "coaching_points": "Footwork (jab step), clean transfer, low throw to the bag.",
+    "source": {
+      "document_slug": "perfect-90",
+      "page": 12,
+      "display": "Perfect 90 p.12"
+    }
+  },
+  {
+    "slug": "tb-plastic-ball-tag",
+    "name": "Plastic Ball Tag",
+    "category": "warmup",
+    "level_tags": [
+      "Tee Ball"
+    ],
+    "equipment": "Plastic Ball",
+    "setup": "",
+    "instructions": "\u2022 The first round of this freeze-tag style game is playing in an open field.\n\u2022 The second round is played only using fair territory of the field.\n\u2022 In the third round, when the players are tagged they not only freeze, but they freeze in the\nposition of a batter.",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-tball",
+      "page": null,
+      "display": "LL Tee Ball Program"
+    }
+  },
+  {
+    "slug": "tb-grip-and-throw",
+    "name": "Grip And Throw",
+    "category": "throwing",
+    "level_tags": [
+      "Tee Ball"
+    ],
+    "equipment": "Baseballs/Softballs | Gloves | Fence",
+    "setup": "",
+    "instructions": "\u2022 While players are circled around the coach, the correct grip is shown and each player\npractices holding the ball.\nThe Little League\u00ae Tee Ball Program | 13\n\fSEQUENCE 4\nTHROWING DEMONSTRATION\nWHAT YOU\u2019LL NEED:\nPlastic Balls\nDEMONSTRATION:\n\u2022 The players look to the coaches while they demonstrate an entire throw.",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-tball",
+      "page": null,
+      "display": "LL Tee Ball Program"
+    }
+  },
+  {
+    "slug": "tb-throwing-demonstration",
+    "name": "Throwing Demonstration",
+    "category": "throwing",
+    "level_tags": [
+      "Tee Ball"
+    ],
+    "equipment": "Plastic Balls",
+    "setup": "",
+    "instructions": "\u2022 The players practice throwing at the fence following the coach\u2019s cues.\nThe Little League\u00ae Tee Ball Program | 15\n\fSEQUENCE 4\nOPPOSITE FOOT WHILE THROWING DEMONSTRATION\nWHAT YOU\u2019LL NEED:\nTee Balls\nDRILL SEQUENCE:\n\u2022 The players are called back for the coach to demonstrate stepping with the opposite foot\nwhen throwing.",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-tball",
+      "page": null,
+      "display": "LL Tee Ball Program"
+    }
+  },
+  {
+    "slug": "tb-throwing-practice",
+    "name": "Throwing Practice",
+    "category": "throwing",
+    "level_tags": [
+      "Tee Ball"
+    ],
+    "equipment": "Baseballs/Softballs | Fence",
+    "setup": "",
+    "instructions": "\u2022 The players practice throwing at the fence following the coach\u2019s cues.\nThe Little League\u00ae Tee Ball Program | 15\n\fSEQUENCE 4\nOPPOSITE FOOT WHILE THROWING DEMONSTRATION\nWHAT YOU\u2019LL NEED:\nTee Balls\nDRILL SEQUENCE:\n\u2022 The players are called back for the coach to demonstrate stepping with the opposite foot\nwhen throwing.",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-tball",
+      "page": null,
+      "display": "LL Tee Ball Program"
+    }
+  },
+  {
+    "slug": "tb-opposite-foot-while-throwing-demonstration",
+    "name": "Opposite Foot While Throwing Demonstration",
+    "category": "throwing",
+    "level_tags": [
+      "Tee Ball"
+    ],
+    "equipment": "Tee Balls",
+    "setup": "",
+    "instructions": "\u2022 The players are called back for the coach to demonstrate stepping with the opposite foot\nwhen throwing.",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-tball",
+      "page": null,
+      "display": "LL Tee Ball Program"
+    }
+  },
+  {
+    "slug": "tb-run-the-bases",
+    "name": "Run The Bases",
+    "category": "baserunning",
+    "level_tags": [
+      "Tee Ball"
+    ],
+    "equipment": "Bases (4)",
+    "setup": "",
+    "instructions": "\u2022 Following the coach, the players run/jog around the bases while calling out each base that\nthey touch.\n\u2022 For round two, the players will advance to each base one at a time and will stop on each\nbase. They will move to the next base when they are cued.\n\u2022 An option is to have a coach with a ball in his or her hand ready to tag players who come off\nof the base.\nThe Little League\u00ae Tee Ball Program | 17",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-tball",
+      "page": null,
+      "display": "LL Tee Ball Program"
+    }
+  },
+  {
+    "slug": "tb-statues",
+    "name": "Statues",
+    "category": "warmup",
+    "level_tags": [
+      "Tee Ball"
+    ],
+    "equipment": "Tee Balls",
+    "setup": "",
+    "instructions": "\u2022 Players stay in the infield and freeze like a statue when instructed by the coach.\n\u2022 In the second round, the coach tags the players to freeze instead of just calling out \u201cfreeze.\u201d",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-tball",
+      "page": null,
+      "display": "LL Tee Ball Program"
+    }
+  },
+  {
+    "slug": "tb-team-throwing",
+    "name": "Team Throwing",
+    "category": "throwing",
+    "level_tags": [
+      "Tee Ball"
+    ],
+    "equipment": "Plastic Balls | Fence | Hula Hoops | Cones | String",
+    "setup": "",
+    "instructions": "\u2022 Players are grouped into teams. On \u201cgo\u201d the first player from each team begins by trying to\nthrow their ball through or into the hoop. As each player gets the ball through the hoop, his\nor her team counts the outs.\nThe Little League\u00ae Tee Ball Program | 21\n\fSEQUENCE 5\nDRY PRACTICE SWING\nWHAT YOU\u2019LL NEED:\nBat | Helmets\nLITTLE LEAGUE \u00ae\nLITTLE LEAGUE \u00ae\nLITTLE LEAGUE \u00ae\nDRILL SEQUENCE:\n\u2022 The players stand in a batting stance, while a coach demonstrates a swing. Players then try\ntheir dry swing (without a bat).",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-tball",
+      "page": null,
+      "display": "LL Tee Ball Program"
+    }
+  },
+  {
+    "slug": "tb-dry-practice-swing",
+    "name": "Dry Practice Swing",
+    "category": "hitting",
+    "level_tags": [
+      "Tee Ball"
+    ],
+    "equipment": "Bat | Helmets",
+    "setup": "",
+    "instructions": "\u2022 The players stand in a batting stance, while a coach demonstrates a swing. Players then try\ntheir dry swing (without a bat).",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-tball",
+      "page": null,
+      "display": "LL Tee Ball Program"
+    }
+  },
+  {
+    "slug": "tb-practice-swing",
+    "name": "Practice Swing",
+    "category": "hitting",
+    "level_tags": [
+      "Tee Ball"
+    ],
+    "equipment": "Tee Balls | Tee | Bat | Helmets",
+    "setup": "",
+    "instructions": "\u2022 While players are taking dry swings, the coach calls one player at a time over to the tee\nfor practice.\nThe Little League\u00ae Tee Ball Program | 23",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-tball",
+      "page": null,
+      "display": "LL Tee Ball Program"
+    }
+  },
+  {
+    "slug": "tb-left-field-center-field-right-field",
+    "name": "Left Field, Center Field, Right Field",
+    "category": "fielding",
+    "level_tags": [
+      "Tee Ball"
+    ],
+    "equipment": "Cones (3)",
+    "setup": "",
+    "instructions": "\u2022 The players begin in left field. When the coach calls out another outfield position, the players\nrun to the cone in that specific position.\n\u2022 Once game begins, the coach can call out a position at any time, even if the players are\nrunning between positions.",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-tball",
+      "page": null,
+      "display": "LL Tee Ball Program"
+    }
+  },
+  {
+    "slug": "tb-position-fitness",
+    "name": "Position Fitness",
+    "category": "fielding",
+    "level_tags": [
+      "Tee Ball"
+    ],
+    "equipment": "No equipment needed",
+    "setup": "",
+    "instructions": "\u2022 The players and coach begin at home plate. The coach announces the position, and\nthen he or she demonstrates an exercise for the players to complete. Players and coach\ncomplete repetitions of the exercise together before moving on to the next position\nand exercise.\nThe Little League\u00ae Tee Ball Program | 27\n\fSEQUENCE 6\nSWING REVIEW\nWHAT YOU\u2019LL NEED:\nBats | Helmets\nDRILL SEQUENCE:\n\u2022 Players sit in grass while coach reviews swing and swinging safety rules.\n\u2022 Players then stand up and practice dry swings.",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-tball",
+      "page": null,
+      "display": "LL Tee Ball Program"
+    }
+  },
+  {
+    "slug": "tb-swing-review",
+    "name": "Swing Review",
+    "category": "hitting",
+    "level_tags": [
+      "Tee Ball"
+    ],
+    "equipment": "Bats | Helmets",
+    "setup": "",
+    "instructions": "\u2022 Players sit in grass while coach reviews swing and swinging safety rules.\n\u2022 Players then stand up and practice dry swings.",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-tball",
+      "page": null,
+      "display": "LL Tee Ball Program"
+    }
+  },
+  {
+    "slug": "tb-swing-and-run",
+    "name": "Swing And Run",
+    "category": "hitting",
+    "level_tags": [
+      "Tee Ball"
+    ],
+    "equipment": "Bat | Bases | Helmets | Optional Equipment: Tee and Tee Balls",
+    "setup": "",
+    "instructions": "\u2022 The game is played just like the activity \u201cBase Running,\u201d but now a practice swing is added\nbefore the players run.\nOPTION: Have a tee set with a ball and have the players hit the ball before running instead of just taking a\npractice swing.\n\u2022 Players advance one base at a time, and are moved to the next base by the next player.\nOPTION: A coach has a ball in his/her hand and tags runners who come off of the bases at the wrong times.\nThe Little League\u00ae Tee Ball Program | 29\n\fSEQUENCE 7\nPRACTICE THROWING\nWHAT YOU\u2019LL NEED:\nTee Balls\nDRILL SEQUENCE:\n\u2022 The players play catch with a partner.\n\u2022 Practice fielding a ground ball can be incorporated into this activity by players taking turns\nrolling the ball to each other and throwing it back.",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-tball",
+      "page": null,
+      "display": "LL Tee Ball Program"
+    }
+  },
+  {
+    "slug": "tb-practice-throwing",
+    "name": "Practice Throwing",
+    "category": "throwing",
+    "level_tags": [
+      "Tee Ball"
+    ],
+    "equipment": "Tee Balls",
+    "setup": "",
+    "instructions": "\u2022 The players play catch with a partner.\n\u2022 Practice fielding a ground ball can be incorporated into this activity by players taking turns\nrolling the ball to each other and throwing it back.",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-tball",
+      "page": null,
+      "display": "LL Tee Ball Program"
+    }
+  },
+  {
+    "slug": "tb-clean-up-the-backyard",
+    "name": "Clean Up The Backyard",
+    "category": "throwing",
+    "level_tags": [
+      "Tee Ball"
+    ],
+    "equipment": "Tennis Balls or Plastic Balls | Cones",
+    "setup": "",
+    "instructions": "\u2022 The players are divided into two teams. Each team is responsible for one side of the playing\narea that is divided by cones.\n\u2022 All types of soft or squishy balls (tennis or plastic balls) are scattered on both sides of the\nplaying area.\n\u2022 On \u201cgo,\u201d players are to throw or toss the balls on their team\u2019s side to the other team\u2019s side\ncontinually until time is called.\n\u2022 The team with the least numbers of balls on their side when time is called wins.",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-tball",
+      "page": null,
+      "display": "LL Tee Ball Program"
+    }
+  },
+  {
+    "slug": "tb-fielding",
+    "name": "Fielding",
+    "category": "fielding",
+    "level_tags": [
+      "Tee Ball"
+    ],
+    "equipment": "Tee Balls | Cones",
+    "setup": "",
+    "instructions": "\u2022 In separate lines the players line up and receive a ground ball from a coach.\n\u2022 The player fields the ground ball rolled to him/her and throws it back to the coach before\nreturning to the end of their line.\nThe Little League\u00ae Tee Ball Program | 35\n\fSEQUENCE 3\nFIELDING IN POSITIONS\nWHAT YOU\u2019LL NEED:\nTee Balls | Cones\nLITTLE LEAGUE \u00ae\nLITTLE LEAGUE \u00ae\nLITTLE LEAGUE \u00ae\nDRILL SEQUENCE:\n\u2022 Each position should be marked with cones before the drill starts. The players are sent\nto positions.\n\u2022 Before the drill begins, review fielding a ground ball with the players once they are in positions.\n\u2022 The coach at home plate rolls the ball to the players in position, one at a time. The player who\nfields the ball then throws it back to the coach on the pitcher\u2019s plate.",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-tball",
+      "page": null,
+      "display": "LL Tee Ball Program"
+    }
+  },
+  {
+    "slug": "tb-fielding-in-positions",
+    "name": "Fielding In Positions",
+    "category": "fielding",
+    "level_tags": [
+      "Tee Ball"
+    ],
+    "equipment": "Tee Balls | Cones",
+    "setup": "",
+    "instructions": "\u2022 Each position should be marked with cones before the drill starts. The players are sent\nto positions.\n\u2022 Before the drill begins, review fielding a ground ball with the players once they are in positions.\n\u2022 The coach at home plate rolls the ball to the players in position, one at a time. The player who\nfields the ball then throws it back to the coach on the pitcher\u2019s plate.",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-tball",
+      "page": null,
+      "display": "LL Tee Ball Program"
+    }
+  },
+  {
+    "slug": "tb-fielding-with-a-runner-optional-drill",
+    "name": "Fielding With A Runner (Optional Drill)",
+    "category": "fielding",
+    "level_tags": [
+      "Tee Ball"
+    ],
+    "equipment": "Tee Balls | Bases",
+    "setup": "",
+    "instructions": "\u2022 Players are in position on the field with any extra players in a small line by the coach at\nhome plate.\n\u2022 On \u201cgo\u201d the coach rolls a ball from home plate to a position and the runner at home plate\nruns to first base at the same time.\n\u2022 The fielder must field the ball and throw it to the pitcher before the runner gets to first base.\nIf the runner \u201cbeats the play\u201d they stay at first base and if the runner does not \u201cbeat the\nplay\u201d they go back to the end of the line at home plate.\nThe Little League\u00ae Tee Ball Program | 37\n\fSEQUENCE 4\nRUN THE BASES\nWHAT YOU\u2019LL NEED:\nBases\nFIRST!\nDRILL SEQUENCE:\n\u2022 Starting at home plate, everyone jogs to first, second, third, and home in a line, following the\ncoach and calling out the bases as they go.\n\u2022 On round 2, start the line at home plate, on \u201cgo\u201d the first player runs to first and stays on first.\nOn the next \u201cgo\u201d, the player on first advances to second and the new runner goes to first.\nRepeat with all players running and all advancing until each player scores at home plate.\n\u2022 Optional to have a coach on the field with a ball in hand, stressing that the base means SAFE\nand if they are off the base they could be tagged OUT.",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-tball",
+      "page": null,
+      "display": "LL Tee Ball Program"
+    }
+  },
+  {
+    "slug": "tb-tee-hitting",
+    "name": "Tee Hitting",
+    "category": "hitting",
+    "level_tags": [
+      "Tee Ball"
+    ],
+    "equipment": "Tee Balls | Tees | Helmets",
+    "setup": "",
+    "instructions": "\u2022 The players are split into groups and take turns hitting off a tee into a net, fence, or open\nfield with a coach.\nThe Little League\u00ae Tee Ball Program | 39",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-tball",
+      "page": null,
+      "display": "LL Tee Ball Program"
+    }
+  },
+  {
+    "slug": "tb-red-light-green-light",
+    "name": "Red Light, Green Light",
+    "category": "warmup",
+    "level_tags": [
+      "Tee Ball"
+    ],
+    "equipment": "No equipment needed",
+    "setup": "",
+    "instructions": "\u2022 All players line up on the foul line in the outfield and the coaches face the players a distance\naway. When a coach calls out \u201cgreen light,\u201d the players begin running toward the coach. When\nthe coach calls out \u201cred light,\u201d the players must stop or freeze.\n\u2022 The coach continues to call out green and red light until players reach a determined distance.",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-tball",
+      "page": null,
+      "display": "LL Tee Ball Program"
+    }
+  },
+  {
+    "slug": "tb-catching-practice",
+    "name": "Catching Practice",
+    "category": "fielding",
+    "level_tags": [
+      "Tee Ball"
+    ],
+    "equipment": "Gloves | Tennis Balls",
+    "setup": "",
+    "instructions": "\u2022 The players find a personal space anywhere in the playing area. The players should all have\nhis/her glove and tennis ball.\n\u2022 Players toss the ball in the air to themselves and catch it, or \u201csqueeze it,\u201d in their gloves.\nThe Little League\u00ae Tee Ball Program | 43\n\fSEQUENCE 4                                                                                \u2022 ONLINE VIDEO\nOFFENSE AND DEFENSE - PROGRESSION 1 & 2\nWHAT YOU\u2019LL NEED:\nTee Balls | Bases | Buckets (3)\nLITTLE LEAGUE \u00ae\nDRILL SEQUENCE:\n\u2022 The players begin the drill in positions. The coach rolls the ball to any position. The player at\nthe specific position must field the ball and then either run it or throw it to a designated player\n(usually the person playing first base). That player then drops the ball into the bucket beside\nhim/her and it counts as an \u201cout.\u201d\n\u2022 PROGRESSION 2: The player who fields the ball must throw the ball (and not run it) to the\ndesignated player with the bucket for an out.",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-tball",
+      "page": null,
+      "display": "LL Tee Ball Program"
+    }
+  },
+  {
+    "slug": "tb-offense-and-defense-progression-3",
+    "name": "Offense And Defense - Progression 3",
+    "category": "game",
+    "level_tags": [
+      "Tee Ball"
+    ],
+    "equipment": "Tee Balls | Bases | Buckets (3) | Bats | Helmets | Tees",
+    "setup": "",
+    "instructions": "\u2022 The players are divided into two teams. One team must go behind the line of cones in the\nfield, and the other team is near home plate with a tee and plastic balls (or in line at a tee\nready to take a turn).\n\u2022 On \u201cgo\u201d, the players at the tees all swing and hit their plastic balls into the field. The players\nin the field stay behind the cone line to field the balls and then run to place them in the\nbucket that is also behind the cone line in the field.\n\u2022 The game is continuous and teams should switch sides after a specific time or until all of the\nballs are gone. All players (or most) are moving at all times.\nThe Little League\u00ae Tee Ball Program | 45",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-tball",
+      "page": null,
+      "display": "LL Tee Ball Program"
+    }
+  },
+  {
+    "slug": "tb-zigzagging",
+    "name": "Zigzagging",
+    "category": "warmup",
+    "level_tags": [
+      "Tee Ball"
+    ],
+    "equipment": "Cones",
+    "setup": "",
+    "instructions": "\u2022 The players are broken up into groups. Each group lines up behind a line of spaced\nout cones.\n\u2022 On \u201cgo\u201d, the first player in each line zigzags through the cones, circles around the last\ncones, and zigzags back between the cones. They then tag the next person in line to\nproceed through the cones.\n\u2022 Finish when all players are complete or turn the drill into a race between teams.",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-tball",
+      "page": null,
+      "display": "LL Tee Ball Program"
+    }
+  },
+  {
+    "slug": "tb-pop-ups",
+    "name": "Pop-Ups",
+    "category": "fielding",
+    "level_tags": [
+      "Tee Ball"
+    ],
+    "equipment": "Gloves | Tee Balls",
+    "setup": "",
+    "instructions": "\u2022 The players are split up into groups and paired with a coach.\n\u2022 Each group circles around or spreads out around the coach. The coach takes turn with each\nplayer and tosses him/her a very shallow pop-up, progressing higher and higher with\neach turn.\n\u2022 After a few practice rounds, each group has a contest within itself to see which player can\ncatch the most pop ups in a row. However many each player catches within each group, the\nother group members do that many jumping jacks before the next player\u2019s turn.",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-tball",
+      "page": null,
+      "display": "LL Tee Ball Program"
+    }
+  },
+  {
+    "slug": "tb-run-the-bases-relay",
+    "name": "Run The Bases Relay",
+    "category": "baserunning",
+    "level_tags": [
+      "Tee Ball"
+    ],
+    "equipment": "Bases",
+    "setup": "",
+    "instructions": "\u2022 The players are divided into two teams. One team lines up at second base and the other\nteam lines up at home plate. Each line should be out of the way of the base paths.\n\u2022 On \u201cgo\u201d, the first player in line at second base runs around the bases and back to second\nbase while, at the same time, the player at home runs around the bases back to home plate.\nOnce the players arrive back to their team\u2019s line they tag the next player to continue\nthe race.\n\u2022 The first team to finish is the winning team.\nThe Little League\u00ae Tee Ball Program | 51",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-tball",
+      "page": null,
+      "display": "LL Tee Ball Program"
+    }
+  },
+  {
+    "slug": "tb-the-great-baseball",
+    "name": "The Great Baseball",
+    "category": "warmup",
+    "level_tags": [
+      "Tee Ball"
+    ],
+    "equipment": "No equipment needed",
+    "setup": "",
+    "instructions": "\u2022 Break the players into four groups. Each group should be sent to a base running line. Give\neach group a nickname such as, \u201cThe Baseballs,\u201d or \u201cThe Bats.\u201d\n\u2022 A coach stands in the middle of the field and calls out a team\u2019s nickname. When that team\nis called, the team must run to the other side (opposite of them) without being tagged by the\ncoach.\n\u2022 If players get tagged on their way to the other side, they must sit down in the playing area\nand become a stationary tagger while other groups are called to cross.",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-tball",
+      "page": null,
+      "display": "LL Tee Ball Program"
+    }
+  },
+  {
+    "slug": "tb-hit-the-bucket",
+    "name": "Hit The Bucket",
+    "category": "throwing",
+    "level_tags": [
+      "Tee Ball"
+    ],
+    "equipment": "Bucket (1) | Plastic Balls",
+    "setup": "",
+    "instructions": "\u2022 All players make a large circle around a bucket. Each player takes a turn and tosses a\nplastic ball that they have a the bucket, trying to get the ball inside the bucket.\n\u2022 If a player hits the bucket with their ball, it counts as an out for the team. If a player gets\ntheir ball inside the bucket, it counts as three outs for the team and the round in over. The\nteam is trying to get three outs.\n\u2022 The drill may progress to see how many balls the team can toss inside the bucket during a\nspecified time period.\nThe Little League\u00ae Tee Ball Program | 55",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-tball",
+      "page": null,
+      "display": "LL Tee Ball Program"
+    }
+  },
+  {
+    "slug": "tb-follow-the-leader",
+    "name": "Follow The Leader",
+    "category": "warmup",
+    "level_tags": [
+      "Tee Ball"
+    ],
+    "equipment": "No equipment needed",
+    "setup": "",
+    "instructions": "\u2022 All players line up on the first base line behind a coach.\n\u2022 The coach moves different ways, such as skipping, running, hopping, jumping, and\nzigzagging, all around the field while the players follow behind mimicking the\ncoach\u2019s movements.",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-tball",
+      "page": null,
+      "display": "LL Tee Ball Program"
+    }
+  },
+  {
+    "slug": "tb-copycat-modification-to-sequence-2",
+    "name": "Copycat (Modification to Sequence 2)",
+    "category": "warmup",
+    "level_tags": [
+      "Tee Ball"
+    ],
+    "equipment": "No equipment needed",
+    "setup": "",
+    "instructions": "\u2022 The players find a personal space in the playing area with the coach facing the players.\n\u2022 The coach stays in a stationary spot, while doing several different movements and the\nplayers must copy the movements.\nThe Little League\u00ae Tee Ball Program | 59\n\fSEQUENCE 3\nSTATIONS\nWHAT YOU\u2019LL NEED:\nBats | Cones (3) | Tee Balls | Helmets\nLITTLE LEAGUE \u00ae\nLITTLE LEAGUE \u00ae\nLITTLE LEAGUE \u00ae\nStation                              Station\n1                                    2\nDRILL SEQUENCE:\n\u2022 The players are broken into two groups.\n\u2022 Station 1: Practice Throwing \u2013 Players practice throwing with a partner. Then the players all\nstand behind the foul line and are prompted to all throw at the same time as far as they can.\n\u2022 Station 2: Practice Swings \u2013 Players practice swinging with a bat. Then players take turns\nswinging at a volleyball off of the tee.\n\u2022 The groups switch after a specific time.",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-tball",
+      "page": null,
+      "display": "LL Tee Ball Program"
+    }
+  },
+  {
+    "slug": "tb-stations",
+    "name": "Stations",
+    "category": "stations",
+    "level_tags": [
+      "Tee Ball"
+    ],
+    "equipment": "Bats | Cones (3) | Tee Balls | Helmets",
+    "setup": "",
+    "instructions": "\u2022 The players are broken into two groups.\n\u2022 Station 1: Practice Throwing \u2013 Players practice throwing with a partner. Then the players all\nstand behind the foul line and are prompted to all throw at the same time as far as they can.\n\u2022 Station 2: Practice Swings \u2013 Players practice swinging with a bat. Then players take turns\nswinging at a volleyball off of the tee.\n\u2022 The groups switch after a specific time.",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-tball",
+      "page": null,
+      "display": "LL Tee Ball Program"
+    }
+  },
+  {
+    "slug": "tb-beach-volleyball-circle",
+    "name": "Beach Volleyball Circle",
+    "category": "fielding",
+    "level_tags": [
+      "Tee Ball"
+    ],
+    "equipment": "Volleyball(s)",
+    "setup": "",
+    "instructions": "\u2022 The players remain in groups from the last activity (or break them into groups).\n\u2022 Each group creates a circle with a coach.\n\u2022 The coach begins bumping a beach volleyball into the air. The players try to keep the\nvolleyball in the air by calling the ball and hitting it in the air within the circle.\nThe Little League\u00ae Tee Ball Program | 61",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-tball",
+      "page": null,
+      "display": "LL Tee Ball Program"
+    }
+  },
+  {
+    "slug": "tb-races",
+    "name": "Races",
+    "category": "warmup",
+    "level_tags": [
+      "Tee Ball"
+    ],
+    "equipment": "No equipment needed",
+    "setup": "",
+    "instructions": "\u2022 Separate the players into two groups. Each group is in a line behind the foul line and the\ncoach stands across from the groups.\n\u2022 On \u201cgo\u201d the first player from each group races past the imaginary line past the coach. The\nnext person in each line races on \u201cgo\u201d and so on.",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-tball",
+      "page": null,
+      "display": "LL Tee Ball Program"
+    }
+  },
+  {
+    "slug": "tb-show-and-tell",
+    "name": "Show And Tell",
+    "category": "warmup",
+    "level_tags": [
+      "Tee Ball"
+    ],
+    "equipment": "Equipment for each player\u2019s chosen skill",
+    "setup": "",
+    "instructions": "\u2022 The players are in a small cluster or circle sitting on the grass.\n\u2022 Each player has a chance to come in front of the group and show a skill that they think they\nare awesome at completing or really good at doing, like throwing, fielding, running, and more.\nThe Little League\u00ae Tee Ball Program | 65\n\fSEQUENCE 4                                                                              \u2022 ONLINE VIDEO\nSTATION 1\nWHAT YOU\u2019LL NEED:\nBases\nStation\n1\nLITTLE LEAGUE \u00ae\nDRILL SEQUENCE:\n\u2022 The players each begin on different bases to ensure that during the drill they stop when the\nrunner in front of them stops and runs when appropriate.\n\u2022 The players practice running around the base, calling out the bases as they go around on\nthe coach\u2019s cues.",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-tball",
+      "page": null,
+      "display": "LL Tee Ball Program"
+    }
+  },
+  {
+    "slug": "tb-station-1",
+    "name": "Station 1",
+    "category": "stations",
+    "level_tags": [
+      "Tee Ball"
+    ],
+    "equipment": "Bases",
+    "setup": "",
+    "instructions": "\u2022 The players each begin on different bases to ensure that during the drill they stop when the\nrunner in front of them stops and runs when appropriate.\n\u2022 The players practice running around the base, calling out the bases as they go around on\nthe coach\u2019s cues.",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-tball",
+      "page": null,
+      "display": "LL Tee Ball Program"
+    }
+  },
+  {
+    "slug": "tb-station-2",
+    "name": "Station 2",
+    "category": "stations",
+    "level_tags": [
+      "Tee Ball"
+    ],
+    "equipment": "Tee Balls | Gloves",
+    "setup": "",
+    "instructions": "\u2022 The players are staggered into mock positions, but not as far apart as actual outfielders.\n\u2022 The coach tosses pop-ups or ground balls to each player. The players practice calling the\nball when it comes to them.\nThe Little League\u00ae Tee Ball Program | 67",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-tball",
+      "page": null,
+      "display": "LL Tee Ball Program"
+    }
+  },
+  {
+    "slug": "tb-inning-practice",
+    "name": "Inning Practice",
+    "category": "game",
+    "level_tags": [
+      "Tee Ball"
+    ],
+    "equipment": "Tee Balls | Bases | Bats | Helmets | Gloves",
+    "setup": "Divide the players in half: half on offense, half playing field positions on defense.",
+    "instructions": "Work through a mini-inning of game-like play. The defense practices fielding live tee'd hits. Each offensive player gets to hit off the tee and run the bases. Switch sides after every player has had a turn batting.",
+    "coaching_points": "Reinforce running through 1B, calling for the ball, and listening for coaches' instructions.",
+    "source": {
+      "document_slug": "ll-tball",
+      "page": 52,
+      "display": "LL Tee Ball Program p.52-53"
+    }
+  },
+  {
+    "slug": "cp-two-three-finger-grips",
+    "name": "Two-and-Three Finger Grips",
+    "category": "throwing",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "Baseballs",
+    "setup": "Players in three single-file lines of four, one coach per line.",
+    "instructions": "Players grab a ball off the ground and show you their four-seam grip. Each player does five balls. Demonstrate proper four-seam grip. Show two-finger and three-finger grips: index finger on top of the ball, thumb on the bottom, middle finger on top. Spacing between fingers about the size of a finger. Players grip the ball across the horseshoe ('C').",
+    "coaching_points": "Quick reset between balls. Make every grip a four-seam.",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 9,
+      "display": "LL Coach Pitch Page 9"
+    }
+  },
+  {
+    "slug": "cp-four-seam-relay-race",
+    "name": "Four-Seam Relay Race",
+    "category": "throwing",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "Baseballs",
+    "setup": "Three lines of four players, about 15 feet from a coach. One ball on the ground in front of each line.",
+    "instructions": "Player starts from their line, runs up to the ball, picks it up, and shows the coach their four-seam grip. Returns to the back of their line. Once they return, the next player goes. Continue until everyone has gone. The relay is run after the drill.",
+    "coaching_points": "Quality of the grip > speed. Pause to fix bad grips.",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 9,
+      "display": "LL Coach Pitch Page 9"
+    }
+  },
+  {
+    "slug": "cp-toss-catch-four-seam-grip",
+    "name": "Toss/Catch/Four-Seam Grip",
+    "category": "throwing",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "",
+    "setup": "",
+    "instructions": "Each player will start with a ball. The player will throw the ball in\nthe air, work on catching with two hands above the waist.\nOnce the ball is caught, the player will grip the ball with a\nfour-seam grip and transition in to the \u201claunch\u201d position of throwing.\n\n20 tosses each.\n\n1.3\n\n2015 Little League Baseball\u00ae Coach Pitch \t\t Week Two | Page 16",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 16,
+      "display": "LL Coach Pitch Page 16"
+    }
+  },
+  {
+    "slug": "cp-toss-catch-four-seam-relay",
+    "name": "Toss/Catch/Four-Seam Grip Relay",
+    "category": "throwing",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "Baseballs",
+    "setup": "Four teams of three players each, in a straight line about 10 feet apart.",
+    "instructions": "Once the first player completes the toss/catch/four-seam grip drill, the next player goes. Relay is the first team to complete two or three successful rounds.",
+    "coaching_points": "Reinforce the four-seam grip transition every rep \u2014 speed without sloppy grips.",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 24,
+      "display": "LL Coach Pitch Page 24"
+    }
+  },
+  {
+    "slug": "cp-player-toss",
+    "name": "Player Toss",
+    "category": "throwing",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "Baseballs",
+    "setup": "Players partnered with someone of similar ability, about 10-15 feet apart.",
+    "instructions": "Partner tosses the ball; receiver catches with two hands and transitions into a four-seam grip. Once the thrower shows a Two-Hand Target (2HT), the receiver tosses the ball back. Continue for 15 throws each.",
+    "coaching_points": "2HT before every throw; clean transition glove \u2192 throwing hand \u2192 grip.",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 37,
+      "display": "LL Coach Pitch Page 37"
+    }
+  },
+  {
+    "slug": "cp-two-hand-target",
+    "name": "Two-Hand Target (2HT)",
+    "category": "fielding",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "Baseballs",
+    "setup": "Pairs of players facing each other.",
+    "instructions": "When playing catch, the thrower should not deliver the ball until the receiver shows a 2HT. The 2HT is when the receiver has both arms extended straight out from the body with a slight elbow flex, hands straight up, thumbs toward each other. Once the thrower sees the 2HT they may deliver the ball.",
+    "coaching_points": "No throw without a target. Receiver builds the habit of presenting hands first.",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 10,
+      "display": "LL Coach Pitch Page 10"
+    }
+  },
+  {
+    "slug": "cp-thumb-to-thumb",
+    "name": "Thumb-to-Thumb (T2T)",
+    "category": "fielding",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "Baseballs",
+    "setup": "Pairs of players facing each other.",
+    "instructions": "When receiving the ball above the waist, the receiver shows a 2HT and catches the ball thumb-to-thumb. Emphasizes using two hands and allows the receiver to quickly transition from glove to throwing hand using the four-seam grip.",
+    "coaching_points": "Above the waist \u2192 thumbs together. Always two hands.",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 10,
+      "display": "LL Coach Pitch Page 10"
+    }
+  },
+  {
+    "slug": "cp-pinky-to-pinky",
+    "name": "Pinky-to-Pinky",
+    "category": "fielding",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "Baseballs",
+    "setup": "Pairs of players facing each other.",
+    "instructions": "When receiving the ball below the waist, the receiver shows a 2HT and catches the ball pinky-to-pinky. Stresses two-hand catching and proper technique below the waist.",
+    "coaching_points": "Below the waist \u2192 pinkies together. Always two hands.",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 10,
+      "display": "LL Coach Pitch Page 10"
+    }
+  },
+  {
+    "slug": "cp-below-waist-catching",
+    "name": "Below Waist Catching",
+    "category": "fielding",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "Baseballs",
+    "setup": "Players in three single-file lines of four. One coach per line.",
+    "instructions": "The coach throws the ball below the waist to each player to work on the pinky-to-pinky two-hand technique. 15-20 throws per player, rotating after each throw.",
+    "coaching_points": "Watch the ball into the hands; pinkies together every catch.",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 17,
+      "display": "LL Coach Pitch Page 17"
+    }
+  },
+  {
+    "slug": "cp-above-waist-catching",
+    "name": "Above Waist Catching",
+    "category": "fielding",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "Baseballs",
+    "setup": "Players in three single-file lines of four. One coach per line.",
+    "instructions": "Coach reviews pinky-to-pinky catching, then throws the ball above the waist for each player to work on the thumb-to-thumb, two-hand technique. 15-20 throws per player, rotating after each throw.",
+    "coaching_points": "Above the waist \u2192 thumbs together. Both hands move to the ball.",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 25,
+      "display": "LL Coach Pitch Page 25"
+    }
+  },
+  {
+    "slug": "cp-plastic-ball-pop-ups",
+    "name": "Plastic Ball Pop Ups",
+    "category": "fielding",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "Plastic balls, gloves",
+    "setup": "Three single-file lines of four players, one coach per line.",
+    "instructions": "Coach throws plastic balls to a designated area in the air. Players line up underneath the ball and try to make the catch with two hands \u2014 T2T if the ball is above the waist, P2P if below. 10-15 throws per player.",
+    "coaching_points": "Get under the ball first, then square up. Two hands every time.",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 38,
+      "display": "LL Coach Pitch Page 38"
+    }
+  },
+  {
+    "slug": "cp-knock-out-game",
+    "name": "Knock Out Game",
+    "category": "fielding",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "Plastic balls, gloves",
+    "setup": "Split each team into four players. Teams line up behind first, second, and third bases. Coach on pitcher's mound.",
+    "instructions": "When their team is called, the first player receives a pop-up thrown from the coach. After a successful catch, the player goes to the end of the line. Once a player misses, they sit at the end of their line and cheer for their team. Game finishes when there is one player left.",
+    "coaching_points": "Pressure reps; encourage teammates between catches.",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 45,
+      "display": "LL Coach Pitch Page 45"
+    }
+  },
+  {
+    "slug": "cp-tennis-ball-pop-ups",
+    "name": "Tennis Ball Pop Ups",
+    "category": "fielding",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "Tennis balls, gloves",
+    "setup": "Three single-file lines of four players, one coach per line.",
+    "instructions": "Coach throws fly balls with tennis balls. Players react, line up underneath the ball, and try to catch with two hands using T2T (above the waist) or P2P (below the waist). The throwing hand secures the ball, transitioning to a four-seam grip. 10-15 throws per player.",
+    "coaching_points": "Tennis balls are forgiving \u2014 emphasize technique over fear of getting hit.",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 61,
+      "display": "LL Coach Pitch Page 61"
+    }
+  },
+  {
+    "slug": "cp-drop-step-and-crossover",
+    "name": "Drop Step and Crossover",
+    "category": "fielding",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "Tennis balls, gloves",
+    "setup": "Three single-file lines of four players, one coach per line.",
+    "instructions": "Coach throws a tennis ball in one of four directions. Ball out to the right: cross right foot over left and run toward the ball. Ball right and back: drop step with the left foot, run back at an angle, look over right shoulder. Ball out to the left: cross left foot over right and run toward the ball. Ball left and back: drop step with right foot, run back at an angle, look over left shoulder. Players square up under the ball and catch with two hands using T2T. 10 throws per player.",
+    "coaching_points": "Drop step before crossover; never backpedal. Eyes on the ball.",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 75,
+      "display": "LL Coach Pitch Page 75"
+    }
+  },
+  {
+    "slug": "cp-five-steps-of-throwing",
+    "name": "Five Steps of Throwing",
+    "category": "throwing",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "",
+    "setup": "",
+    "instructions": "Step One: Step\nStart square to your partner, step towards your partner with the foot of your throwing hand. Plant your foot with the\ninside of the foot facing the receiver, this will align the glove shoulder to your partner.\nStep Two: Shoulder-to-Partner\nYou will want to have your glove shoulder facing your partner. The thrower\u2019s hands are to move downward towards\nthe center of their body until they separate. This will lead you to the launch, which is the next step.\nStep Three: Launch\nAt this point the thrower will turn their thumbs in to get the elbows up putting the arms in the launch position. The\nball will be in the throwing hand away from the receiver with a four-seam grip and the knuckles of the throwing hand\nfacing the receiver.\nStep Four: Delivery\nThe thrower should stay behind the ball when throwing and snap their wrist when throwing to the receiver.\nStep Five: Finish\nThe thrower\u2019s weight will continue towards the receiver and the arm will follow through to the 2HT.\n\n2015 Little League Baseball\u00ae Coach Pitch \t\t Week One | Page 10\n\f                  3.1 Start     3.2 Shoulder-to-Partner      3.3 Launch            3.4 Delivery           3.5 Finish\nDRILL\nStart in the \u201claunch\u201d position, focus on the 2HT using a four-seam grip. Continue Drill for 15-20 throws.",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 10,
+      "display": "LL Coach Pitch Page 10"
+    }
+  },
+  {
+    "slug": "cp-hula-hoop-game",
+    "name": "Hula Hoop Game",
+    "category": "throwing",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "Baseballs, hula hoop, fence/backstop",
+    "setup": "Three single-file lines of four players. Hula hoop on the fence/backstop.",
+    "instructions": "Players see how many of five throws they can put through the hula hoop. Use the four-seam grip and full Five Steps of Throwing.",
+    "coaching_points": "Targets sharpen accuracy. Step direct at the hoop, finish to the target.",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 18,
+      "display": "LL Coach Pitch Page 18"
+    }
+  },
+  {
+    "slug": "cp-throwing-from-knee-to-partner",
+    "name": "Throwing from the Knee to Partner",
+    "category": "throwing",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "Baseballs",
+    "setup": "Partners of like ability, 15 feet apart. Each takes a knee \u2014 glove-hand knee raised, throwing-hand knee on the ground.",
+    "instructions": "Players throw to each other from the knee. The directional shoulder is pointed at the 2HT. Reinforces delivery step of throwing and works on T2T catching. 15-20 throws each.",
+    "coaching_points": "Knee down on throwing side; eyes on the 2HT; clean wrist snap.",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 26,
+      "display": "LL Coach Pitch Page 26"
+    }
+  },
+  {
+    "slug": "cp-hand-separation",
+    "name": "Hand Separation",
+    "category": "throwing",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "",
+    "setup": "",
+    "instructions": "Partner players with similar abilities. Have each player stand 15 to 20 feet apart. Each player will have his/her\ndirectional side toward the partner to start the drill. Hands together on the center of the body (chest) with ball\npressed into glove with throwing hand. Elbows are down. The throwing hand and glove hand, move down the\ncenter of the together and separate with the thumbs turning in toward the body, moving the elbows up. This will put\nthe thrower in the launch position: 20 to 25 throws, increasing distance after 10 and 20 throws.",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 39,
+      "display": "LL Coach Pitch Page 39"
+    }
+  },
+  {
+    "slug": "cp-game-of-21",
+    "name": "Game of 21",
+    "category": "throwing",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "",
+    "setup": "",
+    "instructions": "Match players of like ability for this game. To start the drill, play to\n11, until the players are skilled enough to play to 21.\nEach throw is worth points. If it is directly to the two-hand target in",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 47,
+      "display": "LL Coach Pitch Page 47"
+    }
+  },
+  {
+    "slug": "cp-three-man-relay",
+    "name": "Three-Man Relay",
+    "category": "throwing",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "",
+    "setup": "",
+    "instructions": "Three-Man Relay\nThis drill simulates the correct technique for completing a throw\nfrom the outfield, to a relay man, to the base. Emphasize correct\nthrowing technique and to teach the skill of relaying the ball in this\nsequence.\n\nPlayers should be in a straight line approximately 25\u201355 feet\napart. Coaches will adjust the distance for the players. The drill\nbegins with a ball on the ground in the outfield. The outfielder will\npick the ball up and make a good throw using proper throwing\nmechanics to the relay man. The relay man will stand sideways\nwith their directional shoulder (glove hand) pointed toward the\ntarget they will be relaying the ball to, in this case the base. The\nthird man will quickly return the throw back to the relay man who\nwill make the final throw to the outfielder. Place the ball on the\nground and repeat.\n\nComplete drill 15 times.",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 62,
+      "display": "LL Coach Pitch Page 62"
+    }
+  },
+  {
+    "slug": "cp-long-toss",
+    "name": "Long Toss",
+    "category": "throwing",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "",
+    "setup": "",
+    "instructions": "Long Toss\nPlayers will continue from the hand separation drill and play catch\nmoving a step further away from their partner after each throw,\nSTEP BACK AFTER\nEACH THROW                               until they are able to still throw the ball in a line using correct\nmechanics. 20 throws.\n20 FT 15 FT        10 FT        15 FT 20 FT\n\nGAME OF 21                                                                  GAME OF 21\nMatch players of like ability for this game. To start the drill, play to\n11, until the players are skilled enough to play to 21.\nEach throw is worth points. If it is directly to the two-hand target in",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 76,
+      "display": "LL Coach Pitch Page 76"
+    }
+  },
+  {
+    "slug": "cp-grip-stance-coverage",
+    "name": "Grip / Stance / Coverage",
+    "category": "hitting",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "Bats",
+    "setup": "Players spread out with bats.",
+    "instructions": "GRIP: Place both hands flat and lay the bat at the base of the fingers. Lightly wrap fingers around the bat. Knuckles should align (straight or slightly shifted). STANCE: Athletic position, knees slightly bent, feet shoulder-width apart. Weight 40% front foot / 60% back foot. COVERAGE: Get into stance and place the bat at the corner of the plate closest to the catcher \u2014 the bat must cover the whole plate so the hitter can drive the outside pitch.",
+    "coaching_points": "Re-check grip \u2192 stance \u2192 coverage every at-bat. Habits compound.",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 11,
+      "display": "LL Coach Pitch Page 11"
+    }
+  },
+  {
+    "slug": "cp-dry-swings",
+    "name": "Dry Swings",
+    "category": "hitting",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "",
+    "setup": "",
+    "instructions": "Each coach will have four players in their group. Players will be\nabout 10 to 12 feet away from each other. They will place their\nfielding glove on the ground and use it as home plate. The coach\nwill have each player take a swing on their command and work\n3.2\nwith them to correct their swing.\nEach player will properly grip the bat, get into a good stance and\nmake sure to cover the plate. A coach will throw off of one knee\nfrom about 35 feet away from the plate. (The use of a protective \u201cL\u201d\nscreen is highly recommended.) The coach will throw five pitches\nto each player. Split the team into three groups of four players.\nThe other three players will be outside the fence waiting to hit.\nOnce all players on Group A have hit then Group B who was in the\ninfield will hit and Group C who was in the outfield will move into\nthe infield. Group A will move out to the outfield. Rotate through\nuntil all groups have had a chance to hit, play the infield, and play\nthe outfield.\n3.3\n\n2015 Little League Baseball\u00ae Coach Pitch \t\t Week One | Page 11",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 11,
+      "display": "LL Coach Pitch Page 11"
+    }
+  },
+  {
+    "slug": "cp-coach-pitching-from-knee",
+    "name": "Coach Pitching from Knee",
+    "category": "hitting",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "Baseballs, bats, helmets, L-screen",
+    "setup": "Coach pitches from one knee, ~35 feet from the plate, behind an L-screen.",
+    "instructions": "Each player grips the bat properly, gets into a good stance, and covers the plate. Coach throws five pitches per player. Split team into three groups of four \u2014 Group A hits, B in the infield, C in the outfield. After Group A finishes, B hits and C moves to the infield, A moves to the outfield. Rotate through.",
+    "coaching_points": "L-screen is mandatory. Pitch off the knee \u2014 players see the ball clearly.",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 26,
+      "display": "LL Coach Pitch Page 26"
+    }
+  },
+  {
+    "slug": "cp-hitting-from-a-tee",
+    "name": "Hitting from a Tee",
+    "category": "hitting",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "Tees, bats, baseballs, helmets, fence/net",
+    "setup": "Three groups (A/B/C). Tees set up at netted/fenced areas.",
+    "instructions": "Each player hits five balls off the tee into a net or fence while waiting to hit live from the coach. Repeat three times.",
+    "coaching_points": "Tee work is technique work \u2014 slow them down on bad reps.",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 26,
+      "display": "LL Coach Pitch Page 26"
+    }
+  },
+  {
+    "slug": "cp-pitch-recognition",
+    "name": "Pitch Recognition",
+    "category": "hitting",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "Helmets, bats",
+    "setup": "Coach acts as the pitcher; hitter is in the box wearing a helmet.",
+    "instructions": "Coach fakes a pitching motion but holds up a number of fingers as he releases. The player must call out the number of fingers as soon as they see them.",
+    "coaching_points": "Trains tracking the release point. Eyes locked on the coach's hand.",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 26,
+      "display": "LL Coach Pitch Page 26"
+    }
+  },
+  {
+    "slug": "cp-conditioning-game",
+    "name": "Game: Conditioning",
+    "category": "hitting",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "",
+    "setup": "",
+    "instructions": "Split the group into two teams. The first team hits while the other is in the field. A coach pitches (protected by an\n\u201cL\u201d screen). The first batter hits the ball and starts to run the bases. The team in the field all run to the ball and line\nup behind it. They pass the ball through the legs of each player until the last player at the end of the line gets it\nand throws it to the coach who is pitching. When the ball gets to the coach, the runner stops. Each base touched\ncounts as one point for the team. Immediately the next hitter gets a pitch and the same thing happens. Once every\nplayer hits once, the total bases for the team are added up for their score. They take the field, and the other team\ncomes in to hit and tries to beat their score. This game is more fun with live hitting and hustling around the bases\nmixed in.\n\n2015 Little League Baseball\u00ae Coach Pitch \t\t Week Four | Page 32",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 32,
+      "display": "LL Coach Pitch Page 32"
+    }
+  },
+  {
+    "slug": "cp-soft-toss",
+    "name": "Soft Toss",
+    "category": "hitting",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "",
+    "setup": "",
+    "instructions": "Each player will hit nine balls. Players will hit three, then rotate for\nthree sets. This will keep the players engaged. A coach will crouch\ndown on the opposite side of the hitter\u2019s stance.\nEach player will do this drill three times. Each coach will have\nfour hitters. One set of hitters will be at home hitting towards the\noutfield. The second set of hitters will be at the right field foul pole\nhitting towards second base. The third set of hitters will be on the\nleft field foul pole hitting towards second base.\nPlayers not hitting will be waiting for their turn away from the hitter\nand hitter\u2019s path. Make sure that each player is approaching\ntheir at-bats as if it were in a game. Players must be wearing\nbatting helmets.\n\n2015 Little League Baseball\u00ae Coach Pitch \t\t                                                               Week Six | Page 47",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 48,
+      "display": "LL Coach Pitch Page 48"
+    }
+  },
+  {
+    "slug": "cp-coach-pitch-4x4x4",
+    "name": "Coach Pitch 4x4x4",
+    "category": "hitting",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "",
+    "setup": "",
+    "instructions": "Coach Pitch 4x4x4\nThis drill/game will focus on the coach pitching to the players.\nEach player will approach their at-bat as if it is in a game and\nmake sure they have proper coverage of the plate. There will be\nthree groups of four. Group One will be batting, Group Two will\n3         3\nbe infielders and Group Three will start in the outfield. Each team\n3                                    3   will get an inning to hit (three outs) and will play the game as\n2         2                  if it is a live game. The fielders will try and get each hitter out.\n2                   2            Once Group One has three outs or five runs the inning will end\nand Group Two will come in to hit and Group Three will play the\ninfield. Group One will play the outfield. This rotation will continue\nuntil the drill is over. Have each team hit two to three times\n1   1   1           1",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 63,
+      "display": "LL Coach Pitch Page 63"
+    }
+  },
+  {
+    "slug": "cp-coach-pitch-6x6",
+    "name": "Coach Pitch 6x6",
+    "category": "hitting",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "",
+    "setup": "",
+    "instructions": "Coach Pitch 6x6\t\t\nThis game will be similar to a regular baseball game, playing four\ninnings. Coach will pitch to the players from a knee or standing\nfrom 40 feet away. Each player will approach their at-bat as if it is\nin a game and make sure they have proper coverage of the plate.\nThere will be two groups of six players each. Group One will be\nbatting, Group Two will be infielders and outfielders. The three\nplayers who are outfielders in the first inning will be infielders the\nnext inning. Keep this rotation for the remainder of the game. Each\nteam will get an inning to hit (three outs) and will play the game\nas if it is a live game. The fielders will try and get each hitter out.\nOnce Group One has three outs or five runs scored the inning will\nend and Group Two will come in to hit and Group One will play the\nfield. This rotation will continue until the game is over.",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 91,
+      "display": "LL Coach Pitch Page 91"
+    }
+  },
+  {
+    "slug": "cp-purpose-of-base-running",
+    "name": "Purpose of Base Running",
+    "category": "baserunning",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "None (whiteboard/diagram optional)",
+    "setup": "Players gathered on the infield grass.",
+    "instructions": "Explain that the goal is to score more runs than the other team. To score, a runner must travel home \u2192 1B \u2192 2B \u2192 3B \u2192 home. The team with more runs wins. It doesn't matter how you get on base \u2014 walk, hit, or error \u2014 once you're on base you can score.",
+    "coaching_points": "Plain language; check for understanding by asking 'how do we score?'",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 12,
+      "display": "LL Coach Pitch Page 12"
+    }
+  },
+  {
+    "slug": "cp-run-through-first",
+    "name": "Run Through First Base",
+    "category": "baserunning",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "",
+    "setup": "",
+    "instructions": "Form four lines of players, with three in each line. Explain that on\na ball hit in the infield you want to run as fast as you can through\nfirst base. Do not slow down in front of the base. This drill will help\neliminate running and stopping on the base.\nUse home plate to first base as line one. Create line two, three, and\nfour using the same distance beside line one. If you have throw\ndown bases use them, if not use a fielding glove or something\nsimilar.\nA player will run through first base hitting the front of the base with\neither foot. Once the player runs through the base the player will\nchop their feet to stop, while looking to the right to see if the ball\nwas overthrown. Do this drill five times each.",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 12,
+      "display": "LL Coach Pitch Page 12"
+    }
+  },
+  {
+    "slug": "cp-merry-go-round",
+    "name": "Merry-Go-Round",
+    "category": "baserunning",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "",
+    "setup": "",
+    "instructions": "This is a fun drill that will allow the players to run the bases and get\nan understanding of how to run base to base. Start with an even\nnumber of players at each base, including home plate. One player\nwill approach the plate with a bat with one player on each base.\n\nThey will get a proper grip on the bat. They will get in their stance\nand check to see their plate coverage. Once the coach says \u201cgo,\u201d\nthe player will swing the bat like they just hit the ball and will run\ntoward first base. This will set the drill in motion. The player on first\nbase will run to second base.\n\nThe player at second base will run to third base. The player on\nthird bases will run to home plate. Each player will go to the end\nof the line at the next base. Continue this drill until each player has\n\u201chit\u201d two-to-three times.",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 20,
+      "display": "LL Coach Pitch Page 20"
+    }
+  },
+  {
+    "slug": "cp-rounding-first-base",
+    "name": "Rounding First Base",
+    "category": "baserunning",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "",
+    "setup": "",
+    "instructions": "Players will get into one line on the grass beside home plate toward the third base dugout. Players will go up to the\nplate with a bat, get into their stance, and make sure they cover the plate. Players will swing as if they are hitting\nthe ball, they will drop the bat after two steps to the right, along the first base line. They will run about 45 feet in a\nstraight line towards first.\nOnce they are about 10 to 15 feet before first base the runner will bow out to the right making their path from home\nlook like similar to a question mark (?) once they round first base. This will allow the runner to round first base and\nstart to head towards second base. For this drill the runner will go about 10 to 15 feet beyond first base looking\ntoward the outfielder who fielded the ball and return to first base. Do this drill five times each.\n\n2015 Little League Baseball\u00ae Coach Pitch \t\t Week Three | Page 26",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 26,
+      "display": "LL Coach Pitch Page 26"
+    }
+  },
+  {
+    "slug": "cp-home-plate-relay-race",
+    "name": "Home Plate Relay Race",
+    "category": "baserunning",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "",
+    "setup": "",
+    "instructions": "Review Pinky-to-Pinky catching. Coaches will have the players\nline up into three single file lines of four players each. One coach\nper line will throw each player 10 balls.\nThe coach will throw the ball to players above the waist, to work\non thumb to thumb, two hand technique. Players will line up in\nthree single file lines of four players each. One coach per line\n15-20 throws per player, rotate after each throw.\nGAME:\nAward the player a point for each ball caught. Team with the most\npoints wins.\n\nTHROWING REVIEW\n\u2013\u2013 Do not throw until you see a Two-Hand Target (2HT)\n\u2013\u2013 Use a four-seam grip.\n\u2013\u2013 FIVE STEPS OF THROWING\nStep One: Step\nStart square to your partner, step towards your partner with the foot of your throwing hand. Plant your foot with\nthe inside of the foot facing the receiver, this will align the glove shoulder to your partner. (Fig. 2.1)\nStep Two: Shoulder-to-Partner\nYou will want to have your glove shoulder facing your partner. The thrower\u2019s hands are to move downward\ntowards the center of their body until they separate. This will lead you to the launch, which is the next step.\n(Fig. 2.2)\nStep Three: Launch\nAt this point the thrower will turn their thumbs in to get the elbows up putting the arms in the launch position. The ball\nwill be in the throwing hand away from the receiver with a four-seam grip and the knuckles of the throwing hand facing\nthe receiver. (Fig. 2.3)\nStep Four: Delivery\n[truncated]",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 33,
+      "display": "LL Coach Pitch Page 33"
+    }
+  },
+  {
+    "slug": "cp-base-running-cues",
+    "name": "Base Running Cues",
+    "category": "baserunning",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "",
+    "setup": "",
+    "instructions": "Players are to start at home and determine how they will approach\nfirst base by the cues given to them by the first-base coach. If\nthe coach points to the base and says \u201cbase\u201d the player will run\nthrough first base. If the coach points at second base and tells\nthem \u201cturn\u201c the batter/runner will begin to curve out to the right\nabout 10-15 feet before first base. The runner will bow out the right\nmaking their path from home look similar to a question mark (?)\nonce they touch first base. This will allow the runner to touch first\nbase and start to head to second base in a straight line. For this\ndrill the runner will go about 10-15 feet beyond the base looking\ntowards the outfielder who fielded the ball. This gives the base\nrunner cues on how to approach first base, advance or turn back\nand run quickly to first base.\n\nHOME PLATE RELAY RACE\nGAME: HOME PLATE RELAY RACE",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 48,
+      "display": "LL Coach Pitch Page 48"
+    }
+  },
+  {
+    "slug": "cp-first-to-third",
+    "name": "First-to-Third",
+    "category": "baserunning",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "Bases",
+    "setup": "Runner at first base; coach acts as the third base coach.",
+    "instructions": "Runner runs as fast as they can toward second base. About 10-12 feet from second, they turn their head toward the third base coach to get the signal \u2014 advance to third or stay at second.",
+    "coaching_points": "Run hard until the signal \u2014 don't peek early. Pick up the coach.",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 56,
+      "display": "LL Coach Pitch Page 56"
+    }
+  },
+  {
+    "slug": "cp-second-to-home",
+    "name": "Second-to-Home",
+    "category": "baserunning",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "",
+    "setup": "",
+    "instructions": "Second-To-Home\nIntroduce running from second-to-home. Players will curve out\nwhen approaching third base, this is done to allow the runner to\nhit the inside of the base and be in as close of a straight line while\nadvancing towards home.\n\nFIRST-TO-THIRD                    First-to-Third\nFirst-to-third is the other base running drill. Runners will run as fast\nas they can toward second base. When the runner is about 10 to\n12 feet from second base, the runner will turn his/her head toward\nthe third base coach and get the signal of advancing to third base\nor staying at second base.\n\nLOOK FOR\nCOACH\u2019S SIGNAL\n\n2015 Little League Baseball\u00ae Coach Pitch \t\tWeek Seven | Page 56",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 56,
+      "display": "LL Coach Pitch Page 56"
+    }
+  },
+  {
+    "slug": "cp-home-first-third-second-home",
+    "name": "Home-to-First; First-to-Third; Second-to-Home",
+    "category": "baserunning",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "Bases",
+    "setup": "Players line up at home plate; coach signals at third.",
+    "instructions": "Combine the three base-running progressions. (1) Home-to-first: run through the bag. (2) First-to-third: run hard, look for third base coach's signal at ~12 feet from second. (3) Second-to-home: curve out approaching third, hit the inside of the bag, straight line for home. Walk through each, then run live.",
+    "coaching_points": "Inside corners on the turns; head up looking for the next base.",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 63,
+      "display": "LL Coach Pitch Page 63"
+    }
+  },
+  {
+    "slug": "cp-five-steps-of-fielding",
+    "name": "Five Steps of Fielding",
+    "category": "fielding",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "",
+    "setup": "",
+    "instructions": "\u2013\u2013 Step One: Creeper Steps\nPlayer will take two steps towards the hitter. First step is with the throwing hand, second step is with the glove hand.\nThe glove foot will be slightly out front of the throwing foot. (Fig. 4.1 Pg. 7)\n\u2013\u2013 Step Two: Bend Knees / Lower Torso Down\nPlayer will have knees bent and will have their body lowered down so that their glove is touching the ground in a\n\u201cready\u201d position. Imagine sitting down on a chair; now come off of that chair where you are barely standing above it.\nThis will be the position that you need to be in. (Fig. 4.2 Pg. 7)\n\u2013\u2013 Step Three: Glove Out Front\nPlayer will be in ready position with their arms extended out in front of their body. The palm of the glove will be facing\nthe hitter and low to the ground. The throwing hand should be above the glove forming the mouth of an alligator.\n(Fig. 4.3 Pg. 7)\n\u2013\u2013 Step Four: Receive / Suck / Funnel / Move\nPlayers will field the ball out in front of their body with \u201calligator hands\u201d and bring the ball into their mid-section. At this\ntime the player will use the throwing hand of the alligator hands to grip the ball in a four seam grip. At the same time\nthe player should move their body, throwing foot then glove foot towards the direction where the throw will be made.\nWhen finished with this step, the shoulder of the glove hand should be pointed at the target. (Fig. 4.4 Pg. 7)\n\u2013\u2013 Step Five: Throw to Target\n[truncated]",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 20,
+      "display": "LL Coach Pitch Page 20"
+    }
+  },
+  {
+    "slug": "cp-alligator-hands",
+    "name": "Alligator Hands",
+    "category": "fielding",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "",
+    "setup": "",
+    "instructions": "Players will be in the third step of the five steps of fielding (glove\nout front Fig. 5.1). Players will do this drill with their gloves.\nCoaches will have 3 to 4 players in each of their lines.\nCoaches will roll balls to players once they are in proper fielding\nposition. Players will field the ball out in front of their body with\nglove hand down and throwing hand on top of the \u201calligator mouth\u201d\n(Fig. 5.2) and perform step four and five throwing the ball back\nto the coach.\n\n5.1       5.2\n\nCONCLUSION\n\u2013\u2013 High fives\n\u2013\u2013 Review what they learned/PCA Tip of the Week and remind players of next event (practice/game)\n\u2013\u2013 Dismiss\n\n2015 Little League Baseball\u00ae Coach Pitch \t\t Week One | Page 13\n\fPRACTICE GOALS: What Your Team Should Learn                                            MATERIALS:\n1. How to hold a ball with a four-seam grip                                                 Batting Helmets\n2. Successfully throw to a two-hand target using a four-seam grip                           Bases\n3. Attempt to catch the ball using two hands below the waist                                Baseball Bats (various sizes)\n4. Get into an athletic batting stance                                                      Baseballs (two buckets)\n5. Field and transition into a throwing position                                            Batting Tee\nGloves\n\u201cL\u201d Screen\n\nPRACTICE 1 TIP:                              PRACTICE 2 TIP :                        PRACTICE 3 TIP :\n[truncated]",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 21,
+      "display": "LL Coach Pitch Page 21"
+    }
+  },
+  {
+    "slug": "cp-hat-in-mouth-drill",
+    "name": "Hat in Mouth Drill",
+    "category": "fielding",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "Hats, baseballs, gloves",
+    "setup": "Players in fielding lines.",
+    "instructions": "Players take off their hat, flip it over, and place the brim of the hat in their mouth. This forces them to field the ball completely out in front of them \u2014 the hat makes them look beyond the glove and watch the ball into the glove.",
+    "coaching_points": "Hat doesn't drop = ball was fielded out front. Keep it light and fun.",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 27,
+      "display": "LL Coach Pitch Page 27"
+    }
+  },
+  {
+    "slug": "cp-dry-ground-ball-drill",
+    "name": "Dry Ground Ball Drill",
+    "category": "fielding",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "Baseballs, gloves",
+    "setup": "Players at 3B, SS, and 2B, with a target at first base.",
+    "instructions": "Coach rolls/dry-throws ground balls (no gloves needed for the throwing phase) to one position at a time. Players field the ball and throw to first. Five reps each from 3B, SS, and 2B.",
+    "coaching_points": "Five Steps of Fielding every rep. Out front, alligator hands.",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 33,
+      "display": "LL Coach Pitch Page 33"
+    }
+  },
+  {
+    "slug": "cp-pick-up-drill",
+    "name": "Pick Up Drill",
+    "category": "fielding",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "",
+    "setup": "",
+    "instructions": "Players will be partnered and will be about 15 feet away from\neach other. One player will remain stationary and the other will\nshuffle laterally while fielding ground balls with their bare hands.\nThe player will field the ball and roll it back to their partner. Three\ngroups on shortstop side of the infield and three groups on the\nsecond base side of the infield. Each partner will give two round\nof 10 balls each.\n\nCONCLUSION\n\u2013\u2013 High fives\n\u2013\u2013 Review what they learned/PCA Tip of the Week and remind players of next event (practice/game)\n\u2013\u2013 Dismiss\n\n2015 Little League Baseball\u00ae Coach Pitch \t\tWeek Seven | Page 57\n\f PRACTICE GOALS: What Your Team Should Learn                                            MATERIALS:\n1. Catch a tennis ball above their head                                                    Batting Helmets\n2. Quickly transition the ball from their glove hand to their throwing hand                Bases (four)\n3. Play a simulated game of baseball while working on strengthening                        Baseball Bats (various sizes)\ntheir fundamentals                                                                      Baseballs (two buckets)\n4. Develop hand eye coordination through the same side toss drill                          Batting Tee\nBuckets (three)\nGloves\n\u201cL\u201d Screen\nPlastic Balls\n\nPRACTICE 1 TIP:                                         PRACTICE 2 TIP :\nROOTS - Officials                                    Making Teammates Better\n\n[truncated]",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 57,
+      "display": "LL Coach Pitch Page 57"
+    }
+  },
+  {
+    "slug": "cp-bare-hands-game",
+    "name": "Game: Bare Hands",
+    "category": "fielding",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "Baseballs",
+    "setup": "Three lines of four players at 3B, SS, and 2B. Target at first base.",
+    "instructions": "Players make 10 throws to first base from each of 3B, SS, and 2B with bare hands (no gloves). Award one point for a successfully fielded ground ball, one point for a good throw to first. Coach rolls ground balls to one position at a time. Teams rotate 3B \u2192 SS \u2192 2B \u2192 3B until each team has fielded at all three positions.",
+    "coaching_points": "Bare hands forces 'soft hands' and out-front fielding. Two-hand transfers.",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 64,
+      "display": "LL Coach Pitch Page 64"
+    }
+  },
+  {
+    "slug": "cp-same-side-toss",
+    "name": "Same Side Toss",
+    "category": "fielding",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "Two baseballs per pair",
+    "setup": "Partners face each other, 5-10 feet apart. Each partner has a ball in their right hand.",
+    "instructions": "Partners toss the ball at the same time to their partner's left hand. Throws are continuous, alternating hands after 10 throws on each hand. Run the drill twice.",
+    "coaching_points": "Rhythm and soft hands; both hands work the ball quickly.",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 67,
+      "display": "LL Coach Pitch Page 67"
+    }
+  },
+  {
+    "slug": "cp-knee-ground-ball",
+    "name": "Knee Ground Ball",
+    "category": "fielding",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "",
+    "setup": "",
+    "instructions": "Players are on their knees on the edge of the infield grass. Coach will roll ground balls to the fielder from 25 feet\naway. Fielders will use proper two-hand fielding technique and make a return throw to the coach. Three lines of\nfour players and each will receive four balls do this drill five times.\n\nCONCLUSION\n\u2013\u2013 High fives\n\u2013\u2013 Review what they learned/PCA Tip of the Week and remind players of next event (practice/game)\n\u2013\u2013 Dismiss\n\n2015 Little League Baseball\u00ae Coach Pitch \t\t Week Nine | Page 71\n\f PRACTICE GOALS: What Your Team Should Learn                                           MATERIALS:\n1. Use a cross/drop step to catch a fly ball using two hands (tennis ball)                 Batting Helmets\n2. Be able to catch a fly ball (baseball)                                                  Bases (four)\n3. The way to play long toss                                                               Baseball Bats (various sizes)\nBaseballs (two buckets)\nBatting Tee\nBuckets (three)\nGloves\n\u201cL\u201d Screen\nTennis Balls\n\nPRACTICE 1 TIP:                                               PRACTICE 2 TIP :\nROOTS - Teammates (Humility)                                        ROOTS - Self\n\nROOTS stands for respect for the \u2026                Integrity means doing the right thing even when others\nRU L ES                                           aren\u2019t watching you.\nO P P O N EN T S                                  PCA\u2019s acronym ROOTS, describes behaviors that\n[truncated]",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 71,
+      "display": "LL Coach Pitch Page 71"
+    }
+  },
+  {
+    "slug": "cp-roll-and-toss-drill",
+    "name": "Roll and Toss Drill",
+    "category": "fielding",
+    "level_tags": [
+      "Farm 2"
+    ],
+    "equipment": "",
+    "setup": "",
+    "instructions": "Partners will face each other 5-to-10 feet apart. One partner will\nstart with both balls. Partner with the balls will roll a ground ball\nto their partner. The receiving partner will quickly field the ground\nball and toss the ball back. As the ball is being tossed another\n1\n2\nground ball will be rolled. This drill will focus on fielding ground\n3\nballs while moving laterally.\n\nContinue this drill for 15 repetitions and then switch partners.\n\nCONCLUSION\n\u2013\u2013 High fives\n\u2013\u2013 Review what they learned/PCA Tip of the Week and remind players of next event (practice/game)\n\u2013\u2013 Dismiss\n2015 Little League Baseball\u00ae Coach Pitch \t\t Week Ten | Page 79\n\f PRACTICE GOALS: What Your Team Should Learn                                                  MATERIALS:\n1. Run the bases more proficiently                                                               Batting Helmets\n2. Use a cross/drop step to catch a fly ball using two hands (baseball)                          Bases (four)\nBaseball Bats (various sizes)\nBaseballs (two buckets)\nBatting Tee\nBuckets (three)\nGloves\n\u201cL\u201d Screen\nPlastic Balls\n\nPRACTICE 1 TIP:                                            PRACTICE 2 TIP :\nPositive Self Talk                                 Catch Yourself Before You Complain\n\nSelf Talk is something we all do. We talk to ourselves           Earlier in the season, we talked about the importance of\nsilently in our own mind.                                        a positive attitude.\n\n[truncated]",
+    "coaching_points": "",
+    "source": {
+      "document_slug": "ll-coach-pitch",
+      "page": 79,
+      "display": "LL Coach Pitch Page 79"
+    }
+  }
+]

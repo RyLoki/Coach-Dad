@@ -1,0 +1,58 @@
+[
+  {
+    "slug": "lugnuts-aaa",
+    "display_name": "Lugnuts",
+    "full_name": "NSELL AAA Lugnuts",
+    "level": "AAA",
+    "league": "NSELL",
+    "kid_name": "Thomas",
+    "roster_size": 12,
+    "head_coach": "Ryan",
+    "assistant_coaches": 2,
+    "practice_template": "perfect-90-compressed-60",
+    "practice_block_count": 3,
+    "default_practice_duration_min": 60,
+    "primary_sources": [
+      "Perfect 90 (Marietta)",
+      "MBA Defensive Situations Booklet"
+    ],
+    "notes": "Pre-game hour for every game = drill-heavy practice. p3 of Perfect 90 is the structural northstar. Workshop 2-3 defensive plays each practice."
+  },
+  {
+    "slug": "white-sox-farm2",
+    "display_name": "White Sox",
+    "full_name": "NSELL Farm 2 White Sox",
+    "level": "Farm 2",
+    "league": "NSELL",
+    "kid_name": "Max",
+    "roster_size": 11,
+    "head_coach": "Ryan",
+    "assistant_coaches": 2,
+    "practice_template": "ll-coach-pitch-weekly",
+    "practice_block_count": null,
+    "default_practice_duration_min": 60,
+    "primary_sources": [
+      "Little League Coach Pitch 12-week Program (2015)",
+      "MBA Defensive Situations Booklet"
+    ],
+    "notes": "Follow CP plan's own weekly template. Tack on 2-3 common defensive infield/outfield plays at the end of every practice. Pre-game hour for every game = drill-heavy practice."
+  },
+  {
+    "slug": "dodgers-teeball",
+    "display_name": "Dodgers",
+    "full_name": "NSELL Tee Ball Dodgers",
+    "level": "Tee Ball",
+    "league": "NSELL",
+    "kid_name": "Henry",
+    "roster_size": 12,
+    "head_coach": "Ryan",
+    "assistant_coaches": 2,
+    "practice_template": "ll-tball-weekly",
+    "practice_block_count": null,
+    "default_practice_duration_min": 60,
+    "primary_sources": [
+      "Little League Tee Ball Program"
+    ],
+    "notes": "Follow the LL Tee Ball weekly plans 1-7 to match Henry's 7 practices. Each plan ~45min; extend to 60min via free-play scrimmage at the end."
+  }
+]
