@@ -2,10 +2,9 @@
 
 import { useState } from "react";
 import { useRouter } from "next/navigation";
-import { createClient } from "@/lib/supabase/client";
 
 export default function LoginPage() {
-  const [email, setEmail] = useState("");
+  const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
   const [error, setError] = useState("");
   const [loading, setLoading] = useState(false);
@@ -16,18 +15,18 @@ export default function LoginPage() {
     setError("");
     setLoading(true);
 
-    const supabase = createClient();
-    const { error } = await supabase.auth.signInWithPassword({
-      email,
-      password,
+    const res = await fetch("/api/login", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ username, password }),
     });
 
-    if (error) {
-      setError(error.message);
-      setLoading(false);
-    } else {
+    if (res.ok) {
       router.push("/");
       router.refresh();
+    } else {
+      setError("Invalid username or password");
+      setLoading(false);
     }
   };
 
@@ -40,10 +39,12 @@ export default function LoginPage() {
 
       <form onSubmit={handleLogin} className="w-full max-w-sm space-y-4">
         <input
-          type="email"
-          value={email}
-          onChange={(e) => setEmail(e.target.value)}
-          placeholder="Email"
+          type="text"
+          value={username}
+          onChange={(e) => setUsername(e.target.value)}
+          placeholder="Username"
+          autoCapitalize="off"
+          autoCorrect="off"
           className="w-full px-4 py-3 border rounded-lg text-base"
           required
         />
