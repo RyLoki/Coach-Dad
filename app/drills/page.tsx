@@ -18,9 +18,6 @@ const CATEGORIES = [
   "baserunning",
   "catcher",
   "fielding",
-  "stations",
-  "situational",
-  "game",
 ];
 
 const LEVELS = ["all", "AAA", "Farm 2", "Tee Ball"];
