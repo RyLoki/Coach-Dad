@@ -2,7 +2,7 @@
 
 import { useState, useCallback } from "react";
 import { useRouter } from "next/navigation";
-import { Check, Square, ArrowLeftRight } from "lucide-react";
+import { Check, Square, ArrowLeftRight, ChevronDown, ChevronUp } from "lucide-react";
 import { BlockTimer } from "./BlockTimer";
 import { DefensivePlaysCard } from "./DefensivePlaysCard";
 import { SourceLink } from "./SourceLink";
@@ -21,6 +21,7 @@ export function PlanRunner({ plan: initialPlan }: Props) {
     drillId: number;
     drill: DrillWithSource;
   } | null>(null);
+  const [expandedDrill, setExpandedDrill] = useState<number | null>(null);
   const router = useRouter();
   const supabase = createClient();
 
@@ -32,7 +33,6 @@ export function PlanRunner({ plan: initialPlan }: Props) {
 
   const toggleDone = useCallback(
     async (drillId: number, currentDone: boolean) => {
-      // Optimistic update
       setPlan((p) => ({
         ...p,
         plan_blocks: p.plan_blocks.map((b) => ({
@@ -57,7 +57,6 @@ export function PlanRunner({ plan: initialPlan }: Props) {
         .update({ drill_slug: newSlug, done: false })
         .eq("id", drillId);
 
-      // Fetch the new drill
       const { data: newDrill } = await supabase
         .from("drills")
         .select("*, source_documents(storage_url)")
@@ -127,55 +126,105 @@ export function PlanRunner({ plan: initialPlan }: Props) {
           )}
 
           {block.plan_block_drills.length > 0 && (
-            <div className="space-y-1">
+            <div className="space-y-2">
               {block.plan_block_drills
                 .sort((a, b) => a.sequence - b.sequence)
                 .map((pbd) => {
                   const drill = pbd.drills;
                   const storageUrl = drill.source_documents?.storage_url;
+                  const isExpanded = expandedDrill === pbd.id;
+
                   return (
                     <div
                       key={pbd.id}
-                      className="flex items-center gap-2 bg-white rounded-lg border p-3 min-h-[44px]"
+                      className="bg-white rounded-lg border overflow-hidden"
                     >
-                      <button
-                        onClick={() => toggleDone(pbd.id, pbd.done)}
-                        className="shrink-0 p-1 min-w-[44px] min-h-[44px] flex items-center justify-center"
-                      >
-                        {pbd.done ? (
-                          <Check className="h-5 w-5 text-green-600" />
-                        ) : (
-                          <Square className="h-5 w-5 text-slate-400" />
-                        )}
-                      </button>
+                      <div className="flex items-start gap-2 p-3 min-h-[44px]">
+                        <button
+                          onClick={() => toggleDone(pbd.id, pbd.done)}
+                          className="shrink-0 p-1 min-w-[44px] min-h-[44px] flex items-center justify-center"
+                        >
+                          {pbd.done ? (
+                            <Check className="h-5 w-5 text-green-600" />
+                          ) : (
+                            <Square className="h-5 w-5 text-slate-400" />
+                          )}
+                        </button>
 
-                      <div className="flex-1 min-w-0">
-                        {pbd.station_label && (
-                          <span className="text-xs font-medium text-blue-600 uppercase">
-                            {pbd.station_label}
-                          </span>
-                        )}
-                        <p className={`text-sm font-medium truncate ${pbd.done ? "line-through text-slate-400" : ""}`}>
-                          {drill.name}
-                        </p>
-                        {drill.source_display && (
-                          <SourceLink
-                            document_slug={drill.source_document_slug}
-                            page={drill.source_page}
-                            display={drill.source_display}
-                            storage_url={storageUrl}
-                          />
-                        )}
+                        <button
+                          onClick={() => setExpandedDrill(isExpanded ? null : pbd.id)}
+                          className="flex-1 min-w-0 text-left"
+                        >
+                          {pbd.station_label && (
+                            <span className="text-xs font-medium text-blue-600 uppercase">
+                              {pbd.station_label}
+                            </span>
+                          )}
+                          <p className={`text-sm font-medium ${pbd.done ? "line-through text-slate-400" : ""}`}>
+                            {drill.name}
+                          </p>
+                          {drill.source_display && (
+                            <div className="mt-0.5" onClick={(e) => e.stopPropagation()}>
+                              <SourceLink
+                                document_slug={drill.source_document_slug}
+                                page={drill.source_page}
+                                display={drill.source_display}
+                                storage_url={storageUrl}
+                              />
+                            </div>
+                          )}
+                        </button>
+
+                        <div className="flex items-center shrink-0">
+                          <button
+                            onClick={() => setExpandedDrill(isExpanded ? null : pbd.id)}
+                            className="p-1 min-w-[36px] min-h-[44px] flex items-center justify-center text-slate-400"
+                          >
+                            {isExpanded ? (
+                              <ChevronUp className="h-4 w-4" />
+                            ) : (
+                              <ChevronDown className="h-4 w-4" />
+                            )}
+                          </button>
+                          <button
+                            onClick={() =>
+                              setSwapTarget({ blockId: block.id, drillId: pbd.id, drill })
+                            }
+                            className="p-1 min-w-[36px] min-h-[44px] flex items-center justify-center text-slate-400"
+                          >
+                            <ArrowLeftRight className="h-4 w-4" />
+                          </button>
+                        </div>
                       </div>
 
-                      <button
-                        onClick={() =>
-                          setSwapTarget({ blockId: block.id, drillId: pbd.id, drill })
-                        }
-                        className="shrink-0 p-2 min-w-[44px] min-h-[44px] flex items-center justify-center text-slate-400"
-                      >
-                        <ArrowLeftRight className="h-4 w-4" />
-                      </button>
+                      {isExpanded && (
+                        <div className="px-4 pb-4 space-y-2 border-t bg-slate-50 pt-3">
+                          {drill.equipment && (
+                            <div>
+                              <span className="text-xs font-bold text-slate-500 uppercase">Equipment</span>
+                              <p className="text-sm">{drill.equipment}</p>
+                            </div>
+                          )}
+                          {drill.setup && (
+                            <div>
+                              <span className="text-xs font-bold text-slate-500 uppercase">Setup</span>
+                              <p className="text-sm whitespace-pre-line">{drill.setup}</p>
+                            </div>
+                          )}
+                          {drill.instructions && (
+                            <div>
+                              <span className="text-xs font-bold text-slate-500 uppercase">Instructions</span>
+                              <p className="text-sm whitespace-pre-line">{drill.instructions}</p>
+                            </div>
+                          )}
+                          {drill.coaching_points && (
+                            <div>
+                              <span className="text-xs font-bold text-slate-500 uppercase">Coaching Points</span>
+                              <p className="text-sm whitespace-pre-line">{drill.coaching_points}</p>
+                            </div>
+                          )}
+                        </div>
+                      )}
                     </div>
                   );
                 })}
