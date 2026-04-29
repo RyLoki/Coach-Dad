@@ -34,6 +34,7 @@ export type Drill = {
   setup: string | null;
   instructions: string | null;
   coaching_points: string | null;
+  summary: string | null;
   source_document_slug: string | null;
   source_page: number | null;
   source_display: string | null;

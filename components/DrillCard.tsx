@@ -61,8 +61,8 @@ export function DrillCard({ drill, compact }: Props) {
           ))}
         </div>
 
-        {!expanded && drill.instructions && (
-          <p className="text-sm text-muted-foreground line-clamp-2">{drill.instructions}</p>
+        {!expanded && (drill.summary || drill.instructions) && (
+          <p className="text-sm text-muted-foreground">{drill.summary || drill.instructions}</p>
         )}
 
         {drill.source_display && (
