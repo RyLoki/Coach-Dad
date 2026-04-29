@@ -4,6 +4,7 @@ import { useEffect, useState } from "react";
 import { createClient } from "@/lib/supabase/client";
 import { DrillCard } from "@/components/DrillCard";
 import { Search } from "lucide-react";
+import { CATEGORY_COLORS, LEVEL_COLORS } from "@/lib/tag-colors";
 import type { DrillWithSource } from "@/lib/types";
 
 const CATEGORIES = [
@@ -66,9 +67,9 @@ export default function DrillsPage() {
           <button
             key={cat}
             onClick={() => setCategory(cat)}
-            className={`px-3 py-1.5 rounded-full text-xs font-medium whitespace-nowrap min-h-[32px] ${
+            className={`px-3 py-1.5 rounded-full text-xs font-medium whitespace-nowrap min-h-[32px] capitalize ${
               category === cat
-                ? "bg-slate-900 text-white"
+                ? CATEGORY_COLORS[cat] || "bg-slate-900 text-white"
                 : "bg-white border text-slate-600"
             }`}
           >
@@ -84,7 +85,7 @@ export default function DrillsPage() {
             onClick={() => setLevel(lvl)}
             className={`px-3 py-1.5 rounded-full text-xs font-medium whitespace-nowrap min-h-[32px] ${
               level === lvl
-                ? "bg-blue-600 text-white"
+                ? LEVEL_COLORS[lvl] || "bg-slate-900 text-white"
                 : "bg-white border text-slate-600"
             }`}
           >

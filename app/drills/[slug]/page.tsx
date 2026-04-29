@@ -1,5 +1,6 @@
 import { createClient } from "@/lib/supabase/server";
 import { SourceLink } from "@/components/SourceLink";
+import { levelColor, categoryColor } from "@/lib/tag-colors";
 import { ArrowLeft, Pencil } from "lucide-react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
@@ -34,13 +35,13 @@ export default async function DrillDetailPage({
         <div className="flex-1 min-w-0">
           <h1 className="text-xl font-bold">{drill.name}</h1>
           <div className="flex items-center gap-2 mt-1">
-            <span className="text-xs bg-slate-100 text-slate-600 rounded px-2 py-0.5 capitalize">
+            <span className={`text-xs rounded px-2 py-0.5 capitalize ${categoryColor(drill.category)}`}>
               {drill.category}
             </span>
             {drill.level_tags.map((tag: string) => (
               <span
                 key={tag}
-                className="text-xs bg-blue-50 text-blue-700 rounded px-2 py-0.5"
+                className={`text-xs rounded px-2 py-0.5 ${levelColor(tag)}`}
               >
                 {tag}
               </span>
