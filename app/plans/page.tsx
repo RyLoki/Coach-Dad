@@ -1,5 +1,7 @@
 import { createClient } from "@/lib/supabase/server";
 import { formatDate, formatTime } from "@/lib/time";
+import { TEAM_LOGOS } from "@/lib/team-logos";
+import Image from "next/image";
 import Link from "next/link";
 import type { Plan, Team } from "@/lib/types";
 
@@ -29,12 +31,23 @@ export default async function PlansPage() {
 
       {grouped.map(({ team, plans }) => (
         <div key={team.slug} className="space-y-2">
-          <h2 className="font-semibold text-lg text-slate-700">
-            {team.display_name}
-            <span className="text-sm font-normal text-muted-foreground ml-2">
-              {team.level}
-            </span>
-          </h2>
+          <div className="flex items-center gap-2">
+            {TEAM_LOGOS[team.slug] && (
+              <Image
+                src={TEAM_LOGOS[team.slug]}
+                alt={team.display_name}
+                width={28}
+                height={28}
+                className="rounded-full object-cover"
+              />
+            )}
+            <h2 className="font-semibold text-lg text-slate-700">
+              {team.display_name}
+              <span className="text-sm font-normal text-muted-foreground ml-2">
+                {team.level}
+              </span>
+            </h2>
+          </div>
 
           {plans.map((plan) => (
             <Link

@@ -1,7 +1,9 @@
 import { createClient } from "@/lib/supabase/server";
 import { formatDate, formatTime } from "@/lib/time";
+import { TEAM_LOGOS } from "@/lib/team-logos";
 import { PlanRunner } from "@/components/PlanRunner";
 import { Clock, MapPin, Pencil } from "lucide-react";
+import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { PlanWithBlocks } from "@/lib/types";
@@ -27,11 +29,22 @@ export default async function PlanDetailPage({
   return (
     <div className="space-y-4">
       <div className="flex items-start justify-between">
-        <div>
-          <span className="text-xs font-medium text-blue-600 uppercase">
-            {plan.teams.display_name}
-          </span>
-          <h1 className="text-xl font-bold">{plan.title}</h1>
+        <div className="flex items-center gap-3">
+          {TEAM_LOGOS[plan.teams.slug] && (
+            <Image
+              src={TEAM_LOGOS[plan.teams.slug]}
+              alt={plan.teams.display_name}
+              width={40}
+              height={40}
+              className="rounded-full object-cover shrink-0"
+            />
+          )}
+          <div>
+            <span className="text-xs font-medium text-blue-600 uppercase">
+              {plan.teams.display_name}
+            </span>
+            <h1 className="text-xl font-bold">{plan.title}</h1>
+          </div>
         </div>
         <Link
           href={`/plans/${id}/edit`}

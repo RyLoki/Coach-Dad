@@ -1,5 +1,7 @@
 import { createClient } from "@/lib/supabase/server";
 import { formatDate, formatTime } from "@/lib/time";
+import { TEAM_LOGOS } from "@/lib/team-logos";
+import Image from "next/image";
 import Link from "next/link";
 import { Clock, MapPin, Users } from "lucide-react";
 import type { Plan, Team } from "@/lib/types";
@@ -66,11 +68,22 @@ export default async function TodayPage() {
           className="block bg-white rounded-xl border p-4 space-y-3 active:bg-slate-50"
         >
           <div className="flex items-start justify-between">
-            <div>
-              <span className="text-xs font-medium text-blue-600 uppercase">
-                {plan.teams.display_name}
-              </span>
-              <h2 className="font-semibold text-lg">{plan.title}</h2>
+            <div className="flex items-center gap-3">
+              {TEAM_LOGOS[plan.teams.slug] && (
+                <Image
+                  src={TEAM_LOGOS[plan.teams.slug]}
+                  alt={plan.teams.display_name}
+                  width={36}
+                  height={36}
+                  className="rounded-full object-cover shrink-0"
+                />
+              )}
+              <div>
+                <span className="text-xs font-medium text-blue-600 uppercase">
+                  {plan.teams.display_name}
+                </span>
+                <h2 className="font-semibold text-lg">{plan.title}</h2>
+              </div>
             </div>
             {plan.status === "active" && (
               <span className="bg-green-100 text-green-800 text-xs font-bold px-2 py-1 rounded-full">
