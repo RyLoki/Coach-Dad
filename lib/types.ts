@@ -22,6 +22,7 @@ export type Team = {
   practice_block_count: number | null;
   default_practice_duration_min: number;
   primary_sources: string[];
+  season: string;
   notes: string | null;
 };
 

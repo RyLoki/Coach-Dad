@@ -5,4 +5,8 @@ export const TEAM_LOGOS: Record<string, string> = {
     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Chicago_White_Sox.svg/500px-Chicago_White_Sox.svg.png",
   "dodgers-teeball":
     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Los_Angeles_Dodgers_Logo.svg/250px-Los_Angeles_Dodgers_Logo.svg.png",
+  "river-cats-aaa":
+    "https://www.mlbstatic.com/team-logos/105.svg",
+  "astros-tball":
+    "https://www.mlbstatic.com/team-logos/117.svg",
 };
